@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=6>
 - 랜딩 <https://start.rudix.biz/pads/12-pro/>  (광고 착지 전용, noindex)
 
-제품 사진 7장 · 상세 조각 22장 · 상세 원본 4장
+제품 사진 7장 · 상세 조각 22장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD12/`
 
@@ -13,11 +13,11 @@
 
 | 파일 | 해상도 |
 |---|---|
-| `thumbnail/PAD12-thumb-00-1000x1000.png` | 1000x1000 |
-| `thumbnail/PAD12-thumb-01-1000x1000.png` | 1000x1000 |
+| `thumbnail/PAD12-thumb-00-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/PAD12-thumb-01-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/PAD12-thumb-02-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/PAD12-thumb-03-1000x1000.jpg` | 1000x1000 |
-| `thumbnail/PAD12-thumb-04-1000x1000.png` | 1000x1000 |
+| `thumbnail/PAD12-thumb-04-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/PAD12-thumb-05-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/PAD12-thumb-06-1000x1000.jpg` | 1000x1000 |
 
@@ -53,11 +53,7 @@
 
 ## source — 상세 원본
 
-자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+자르기 전 원본은 별도 저장소에 있다. jsDelivr 가 저장소당 50MB 까지만
+서빙해서 여기 두면 전체가 403 이 된다.
 
-| 파일 | 해상도 |
-|---|---|
-| `source/PAD12-source-00-860x1870.png` | 860x1870 |
-| `source/PAD12-source-01-860x292.png` | 860x292 |
-| `source/PAD12-source-02-860x18990.png` | 860x18990 |
-| `source/PAD12-source-03-860x1352.png` | 860x1352 |
+<https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/PAD12/source>

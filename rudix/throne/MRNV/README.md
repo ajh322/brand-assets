@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=16>
 - 랜딩 <https://start.rudix.biz/thrones/mrnv/>  (광고 착지 전용, noindex)
 
-제품 사진 1장 · 상세 조각 32장 · 상세 원본 1장
+제품 사진 1장 · 상세 조각 32장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV/`
 
@@ -57,8 +57,7 @@
 
 ## source — 상세 원본
 
-자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+자르기 전 원본은 별도 저장소에 있다. jsDelivr 가 저장소당 50MB 까지만
+서빙해서 여기 두면 전체가 403 이 된다.
 
-| 파일 | 해상도 |
-|---|---|
-| `source/MRNV-source-00-860x24708.jpg` | 860x24708 |
+<https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MRNV/source>

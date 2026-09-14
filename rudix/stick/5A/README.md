@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=13>
 - 랜딩 <https://start.rudix.biz/sticks/5a/>  (광고 착지 전용, noindex)
 
-제품 사진 8장 · 상세 조각 19장 · 상세 원본 5장
+제품 사진 8장 · 상세 조각 19장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5A/`
 
@@ -13,14 +13,14 @@
 
 | 파일 | 해상도 |
 |---|---|
-| `thumbnail/5A-thumb-00-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-01-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-02-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-03-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-04-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-05-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-06-1000x1000.png` | 1000x1000 |
-| `thumbnail/5A-thumb-07-1000x1000.png` | 1000x1000 |
+| `thumbnail/5A-thumb-00-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-01-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-02-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-03-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-04-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-05-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-06-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/5A-thumb-07-1000x1000.jpg` | 1000x1000 |
 
 ## detail — 상세페이지 조각
 
@@ -51,12 +51,7 @@
 
 ## source — 상세 원본
 
-자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+자르기 전 원본은 별도 저장소에 있다. jsDelivr 가 저장소당 50MB 까지만
+서빙해서 여기 두면 전체가 403 이 된다.
 
-| 파일 | 해상도 |
-|---|---|
-| `source/5A-source-00-860x1870.png` | 860x1870 |
-| `source/5A-source-01-860x1745.png` | 860x1745 |
-| `source/5A-source-02-860x292.png` | 860x292 |
-| `source/5A-source-03-860x12462.jpg` | 860x12462 |
-| `source/5A-source-04-860x1352.png` | 860x1352 |
+<https://github.com/ajh322/brand-assets-source/tree/main/rudix/stick/5A/source>

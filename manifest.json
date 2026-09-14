@@ -6,44 +6,45 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=13",
     "landing_url": "https://start.rudix.biz/sticks/5a/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5A",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/stick/5A/source",
     "thumbnail": [
       {
-        "file": "thumbnail/5A-thumb-00-1000x1000.png",
+        "file": "thumbnail/5A-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-01-1000x1000.png",
+        "file": "thumbnail/5A-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-02-1000x1000.png",
+        "file": "thumbnail/5A-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-03-1000x1000.png",
+        "file": "thumbnail/5A-thumb-03-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-04-1000x1000.png",
+        "file": "thumbnail/5A-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-05-1000x1000.png",
+        "file": "thumbnail/5A-thumb-05-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-06-1000x1000.png",
+        "file": "thumbnail/5A-thumb-06-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5A-thumb-07-1000x1000.png",
+        "file": "thumbnail/5A-thumb-07-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -163,33 +164,6 @@
         "h": 1003,
         "caption": "라인업 제품 사진"
       }
-    ],
-    "source": [
-      {
-        "file": "source/5A-source-00-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/5A-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/5A-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/5A-source-03-860x12462.jpg",
-        "w": 860,
-        "h": 12462
-      },
-      {
-        "file": "source/5A-source-04-860x1352.png",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "5B": {
@@ -199,44 +173,45 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=10",
     "landing_url": "https://start.rudix.biz/sticks/5b/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5B",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/stick/5B/source",
     "thumbnail": [
       {
-        "file": "thumbnail/5B-thumb-00-1000x1000.png",
+        "file": "thumbnail/5B-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-01-1000x1000.png",
+        "file": "thumbnail/5B-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-02-1000x1000.png",
+        "file": "thumbnail/5B-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-03-1000x1000.png",
+        "file": "thumbnail/5B-thumb-03-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-04-1000x1000.png",
+        "file": "thumbnail/5B-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-05-1000x1000.png",
+        "file": "thumbnail/5B-thumb-05-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-06-1000x1000.png",
+        "file": "thumbnail/5B-thumb-06-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/5B-thumb-07-1000x1000.png",
+        "file": "thumbnail/5B-thumb-07-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -254,23 +229,6 @@
         "h": 1364,
         "caption": "타사 비교표"
       }
-    ],
-    "source": [
-      {
-        "file": "source/5B-source-00-860x1681.png",
-        "w": 860,
-        "h": 1681
-      },
-      {
-        "file": "source/5B-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/5B-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      }
     ]
   },
   "7A": {
@@ -280,44 +238,45 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=11",
     "landing_url": "https://start.rudix.biz/sticks/7a/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/7A",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/stick/7A/source",
     "thumbnail": [
       {
-        "file": "thumbnail/7A-thumb-00-1000x1000.png",
+        "file": "thumbnail/7A-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-01-1000x1000.png",
+        "file": "thumbnail/7A-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-02-1000x1000.png",
+        "file": "thumbnail/7A-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-03-1000x1000.png",
+        "file": "thumbnail/7A-thumb-03-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-04-1000x1000.png",
+        "file": "thumbnail/7A-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-05-1000x1000.png",
+        "file": "thumbnail/7A-thumb-05-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-06-1000x1000.png",
+        "file": "thumbnail/7A-thumb-06-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/7A-thumb-07-1000x1000.png",
+        "file": "thumbnail/7A-thumb-07-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -335,23 +294,6 @@
         "h": 1364,
         "caption": "타사 비교표"
       }
-    ],
-    "source": [
-      {
-        "file": "source/7A-source-00-860x1681.png",
-        "w": 860,
-        "h": 1681
-      },
-      {
-        "file": "source/7A-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/7A-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      }
     ]
   },
   "CASE": {
@@ -361,29 +303,30 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=7",
     "landing_url": "https://start.rudix.biz/accessories/stick-holder/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/CASE",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/stick/CASE/source",
     "thumbnail": [
       {
-        "file": "thumbnail/CASE-thumb-00-1000x1000.png",
+        "file": "thumbnail/CASE-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/CASE-thumb-01-1000x1000.png",
+        "file": "thumbnail/CASE-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/CASE-thumb-02-1000x1000.png",
+        "file": "thumbnail/CASE-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/CASE-thumb-03-1000x1000.png",
+        "file": "thumbnail/CASE-thumb-03-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/CASE-thumb-04-1000x1000.png",
+        "file": "thumbnail/CASE-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -503,33 +446,6 @@
         "h": 1003,
         "caption": "연관 상품 목록"
       }
-    ],
-    "source": [
-      {
-        "file": "source/CASE-source-00-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/CASE-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/CASE-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/CASE-source-03-860x12932.jpg",
-        "w": 860,
-        "h": 12932
-      },
-      {
-        "file": "source/CASE-source-04-860x1352.png",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "PAD8": {
@@ -539,6 +455,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=8",
     "landing_url": "https://start.rudix.biz/pads/8-master/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD8",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/PAD8/source",
     "thumbnail": [
       {
         "file": "thumbnail/PAD8-thumb-00-1000x1000.jpg",
@@ -809,33 +726,6 @@
         "h": 1003,
         "caption": "연관 상품 목록"
       }
-    ],
-    "source": [
-      {
-        "file": "source/PAD8-source-00-720x960.jpg",
-        "w": 720,
-        "h": 960
-      },
-      {
-        "file": "source/PAD8-source-01-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/PAD8-source-02-860x25602.jpg",
-        "w": 860,
-        "h": 25602
-      },
-      {
-        "file": "source/PAD8-source-03-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/PAD8-source-04-860x1352.png",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "PAD12": {
@@ -845,14 +735,15 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=6",
     "landing_url": "https://start.rudix.biz/pads/12-pro/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD12",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/PAD12/source",
     "thumbnail": [
       {
-        "file": "thumbnail/PAD12-thumb-00-1000x1000.png",
+        "file": "thumbnail/PAD12-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/PAD12-thumb-01-1000x1000.png",
+        "file": "thumbnail/PAD12-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
@@ -867,7 +758,7 @@
         "h": 1000
       },
       {
-        "file": "thumbnail/PAD12-thumb-04-1000x1000.png",
+        "file": "thumbnail/PAD12-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
@@ -1015,28 +906,6 @@
         "h": 1003,
         "caption": "관련 상품 목록"
       }
-    ],
-    "source": [
-      {
-        "file": "source/PAD12-source-00-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/PAD12-source-01-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/PAD12-source-02-860x18990.png",
-        "w": 860,
-        "h": 18990
-      },
-      {
-        "file": "source/PAD12-source-03-860x1352.png",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "GUIDE": {
@@ -1046,6 +915,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=14",
     "landing_url": "https://start.rudix.biz/pads/guide-edition/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/GUIDE",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/GUIDE/source",
     "thumbnail": [
       {
         "file": "thumbnail/GUIDE-thumb-00-1000x1000.jpg",
@@ -1053,7 +923,7 @@
         "h": 1000
       },
       {
-        "file": "thumbnail/GUIDE-thumb-01-1000x1000.png",
+        "file": "thumbnail/GUIDE-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
@@ -1068,12 +938,12 @@
         "h": 1000
       },
       {
-        "file": "thumbnail/GUIDE-thumb-04-1000x1000.png",
+        "file": "thumbnail/GUIDE-thumb-04-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/GUIDE-thumb-05-1000x1000.png",
+        "file": "thumbnail/GUIDE-thumb-05-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
@@ -1178,73 +1048,6 @@
         "h": 1328,
         "caption": "5"
       }
-    ],
-    "source": [
-      {
-        "file": "source/GUIDE-source-00-780x1696.png",
-        "w": 780,
-        "h": 1696
-      },
-      {
-        "file": "source/GUIDE-source-01-780x1266.jpg",
-        "w": 780,
-        "h": 1266
-      },
-      {
-        "file": "source/GUIDE-source-02-780x1062.jpg",
-        "w": 780,
-        "h": 1062
-      },
-      {
-        "file": "source/GUIDE-source-03-780x1131.jpg",
-        "w": 780,
-        "h": 1131
-      },
-      {
-        "file": "source/GUIDE-source-04-780x1385.jpg",
-        "w": 780,
-        "h": 1385
-      },
-      {
-        "file": "source/GUIDE-source-05-780x1301.jpg",
-        "w": 780,
-        "h": 1301
-      },
-      {
-        "file": "source/GUIDE-source-06-779x1375.jpg",
-        "w": 779,
-        "h": 1375
-      },
-      {
-        "file": "source/GUIDE-source-07-780x1032.jpg",
-        "w": 780,
-        "h": 1032
-      },
-      {
-        "file": "source/GUIDE-source-08-780x1477.jpg",
-        "w": 780,
-        "h": 1477
-      },
-      {
-        "file": "source/GUIDE-source-09-780x1424.jpg",
-        "w": 780,
-        "h": 1424
-      },
-      {
-        "file": "source/GUIDE-source-10-780x998.jpg",
-        "w": 780,
-        "h": 998
-      },
-      {
-        "file": "source/GUIDE-source-11-780x1125.jpg",
-        "w": 780,
-        "h": 1125
-      },
-      {
-        "file": "source/GUIDE-source-12-780x1111.jpg",
-        "w": 780,
-        "h": 1111
-      }
     ]
   },
   "PSTV": {
@@ -1254,19 +1057,20 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=5",
     "landing_url": "https://start.rudix.biz/thrones/pstv/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTV",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/PSTV/source",
     "thumbnail": [
       {
-        "file": "thumbnail/PSTV-thumb-00-1000x1000.png",
+        "file": "thumbnail/PSTV-thumb-00-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/PSTV-thumb-01-1000x1000.png",
+        "file": "thumbnail/PSTV-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/PSTV-thumb-02-1000x1000.png",
+        "file": "thumbnail/PSTV-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -1392,38 +1196,6 @@
         "h": 1003,
         "caption": "연관 제품 목록"
       }
-    ],
-    "source": [
-      {
-        "file": "source/PSTV-source-00-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/PSTV-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/PSTV-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/PSTV-source-03-860x10384.png",
-        "w": 860,
-        "h": 10384
-      },
-      {
-        "file": "source/PSTV-source-04-780x2322.jpg",
-        "w": 780,
-        "h": 2322
-      },
-      {
-        "file": "source/PSTV-source-05-860x1352.png",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "PSTL": {
@@ -1433,24 +1205,25 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=12",
     "landing_url": "https://start.rudix.biz/thrones/pstl/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTL",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/PSTL/source",
     "thumbnail": [
       {
-        "file": "thumbnail/PSTL-thumb-00-1000x998.png",
+        "file": "thumbnail/PSTL-thumb-00-1000x998.jpg",
         "w": 1000,
         "h": 998
       },
       {
-        "file": "thumbnail/PSTL-thumb-01-1000x1000.png",
+        "file": "thumbnail/PSTL-thumb-01-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/PSTL-thumb-02-1000x1000.png",
+        "file": "thumbnail/PSTL-thumb-02-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       },
       {
-        "file": "thumbnail/PSTL-thumb-03-1000x1000.png",
+        "file": "thumbnail/PSTL-thumb-03-1000x1000.jpg",
         "w": 1000,
         "h": 1000
       }
@@ -1570,38 +1343,6 @@
         "h": 1052,
         "caption": "제품 상세 규격표"
       }
-    ],
-    "source": [
-      {
-        "file": "source/PSTL-source-00-860x1870.png",
-        "w": 860,
-        "h": 1870
-      },
-      {
-        "file": "source/PSTL-source-01-860x1745.png",
-        "w": 860,
-        "h": 1745
-      },
-      {
-        "file": "source/PSTL-source-02-860x292.png",
-        "w": 860,
-        "h": 292
-      },
-      {
-        "file": "source/PSTL-source-03-860x10384.png",
-        "w": 860,
-        "h": 10384
-      },
-      {
-        "file": "source/PSTL-source-04-860x2561.png",
-        "w": 860,
-        "h": 2561
-      },
-      {
-        "file": "source/PSTL-source-05-860x1352.jpg",
-        "w": 860,
-        "h": 1352
-      }
     ]
   },
   "MRNL": {
@@ -1611,6 +1352,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=15",
     "landing_url": "https://start.rudix.biz/thrones/mrnl/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNL",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MRNL/source",
     "thumbnail": [
       {
         "file": "thumbnail/MRNL-thumb-00-1000x1000.jpg",
@@ -1811,13 +1553,6 @@
         "h": 518,
         "caption": "미상"
       }
-    ],
-    "source": [
-      {
-        "file": "source/MRNL-source-00-860x24708.jpg",
-        "w": 860,
-        "h": 24708
-      }
     ]
   },
   "MRNV": {
@@ -1827,6 +1562,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=16",
     "landing_url": "https://start.rudix.biz/thrones/mrnv/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MRNV/source",
     "thumbnail": [
       {
         "file": "thumbnail/MRNV-thumb-00-1000x1000.jpg",
@@ -2027,13 +1763,6 @@
         "h": 518,
         "caption": "미상"
       }
-    ],
-    "source": [
-      {
-        "file": "source/MRNV-source-00-860x24708.jpg",
-        "w": 860,
-        "h": 24708
-      }
     ]
   },
   "MRTL": {
@@ -2043,6 +1772,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=17",
     "landing_url": "https://start.rudix.biz/thrones/mrtl/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRTL",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MRTL/source",
     "thumbnail": [
       {
         "file": "thumbnail/MRTL-thumb-00-1000x1000.jpg",
@@ -2225,13 +1955,6 @@
         "h": 1349,
         "caption": "전체 라인업 사진"
       }
-    ],
-    "source": [
-      {
-        "file": "source/MRTL-source-00-860x23406.jpg",
-        "w": 860,
-        "h": 23406
-      }
     ]
   },
   "MRTV": {
@@ -2241,6 +1964,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=18",
     "landing_url": "https://start.rudix.biz/thrones/mrtv/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRTV",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MRTV/source",
     "thumbnail": [
       {
         "file": "thumbnail/MRTV-thumb-00-1000x1000.jpg",
@@ -2435,13 +2159,6 @@
         "h": 559,
         "caption": "로고 누락 유의사항"
       }
-    ],
-    "source": [
-      {
-        "file": "source/MRTV-source-00-860x24446.jpg",
-        "w": 860,
-        "h": 24446
-      }
     ]
   },
   "MSNV": {
@@ -2451,6 +2168,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=19",
     "landing_url": "https://start.rudix.biz/thrones/msnv/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MSNV",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MSNV/source",
     "thumbnail": [
       {
         "file": "thumbnail/MSNV-thumb-00-1000x1000.jpg",
@@ -2645,13 +2363,6 @@
         "h": 518,
         "caption": "로"
       }
-    ],
-    "source": [
-      {
-        "file": "source/MSNV-source-00-860x24708.jpg",
-        "w": 860,
-        "h": 24708
-      }
     ]
   },
   "MSNL": {
@@ -2661,6 +2372,7 @@
     "shop_url": "https://rudix.biz/shop_view/?idx=20",
     "landing_url": "https://start.rudix.biz/thrones/msnl/",
     "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MSNL",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/throne/MSNL/source",
     "thumbnail": [
       {
         "file": "thumbnail/MSNL-thumb-00-1000x1000.jpg",
@@ -2854,13 +2566,6 @@
         "w": 860,
         "h": 518,
         "caption": "로고 누락"
-      }
-    ],
-    "source": [
-      {
-        "file": "source/MSNL-source-00-860x24708.jpg",
-        "w": 860,
-        "h": 24708
       }
     ]
   }

@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=8>
 - 랜딩 <https://start.rudix.biz/pads/8-master/>  (광고 착지 전용, noindex)
 
-제품 사진 9장 · 상세 조각 37장 · 상세 원본 5장
+제품 사진 9장 · 상세 조각 37장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD8/`
 
@@ -70,12 +70,7 @@
 
 ## source — 상세 원본
 
-자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+자르기 전 원본은 별도 저장소에 있다. jsDelivr 가 저장소당 50MB 까지만
+서빙해서 여기 두면 전체가 403 이 된다.
 
-| 파일 | 해상도 |
-|---|---|
-| `source/PAD8-source-00-720x960.jpg` | 720x960 |
-| `source/PAD8-source-01-860x1870.png` | 860x1870 |
-| `source/PAD8-source-02-860x25602.jpg` | 860x25602 |
-| `source/PAD8-source-03-860x292.png` | 860x292 |
-| `source/PAD8-source-04-860x1352.png` | 860x1352 |
+<https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/PAD8/source>

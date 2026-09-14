@@ -4,7 +4,7 @@
 이미지를 매번 다시 올리지 않고 여기 한 곳에 두고 URL 만 참조한다.
 
 현재 담긴 브랜드: **루딕스(Rudix)** — 드럼 스틱·연습패드·드럼의자 15개 제품.
-제품 사진 67장, 상세 조각 340장, 상세 원본 56장.
+제품 사진 67장, 상세 조각 340장. 자르기 전 원본은 별도 저장소에 있다.
 
 제품별 주소는 아래 표에 있다. 자사몰 `rudix.biz` 가 판매처이고,
 `start.rudix.biz` 는 광고 착지 전용 랜딩이다(전 페이지 noindex).
@@ -34,12 +34,14 @@ rudix/stick/5A/thumbnail/5A-thumb-00-750x750.png
 |---|---|---|
 | `thumbnail/` | 쇼핑몰 갤러리 컷. 배경 정리된 제품 사진 | 목록 썸네일, 본문 제품 컷, SNS |
 | `detail/` | 상세페이지 긴 이미지를 여백 기준으로 자른 조각 | 본문 설명 이미지, 구조 클로즈업 |
-| `source/` | 자르기 전 원본 상세 이미지 | 재가공, 보관. 세로가 길어 본문에는 못 넣는다 |
+
 
 `thumb-00` 이 그 제품의 대표이미지다.
 `detail` 조각에는 헤드라인·사진·설명이 한 세트로 들어 있어 그대로 본문에 넣을 수 있다.
-`source` 는 그 조각들을 자르기 전의 원본이다. 860x24708 같은 크기라 본문에는 넣을
-수 없고, 다시 자르거나 부분을 오려낼 때 쓴다.
+자르기 전 **원본**은 별도 저장소에 있다 — <https://github.com/ajh322/brand-assets-source>
+jsDelivr 가 저장소 하나를 **50MB 까지만** 서빙하기 때문이다. 원본(약 40MB)을 여기
+같이 두면 저장소 전체가 403 이 되어 **이미 발행된 글의 이미지까지 한꺼번에 깨진다.**
+이 저장소를 50MB 아래로 유지하는 것이 규칙이다.
 
 ---
 
@@ -68,23 +70,23 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 
 ## 4. 루딕스 제품 코드
 
-| 카테고리 | 코드 | 제품 | 사진 | 조각 | 원본 | 자사몰 | 랜딩 |
-|---|---|---|---|---|---|---|---|
-| `stick` | `5A` | 히코리 드럼스틱 5A | 8 | 19 | 5 | [상품](https://rudix.biz/shop_view/?idx=13) | [랜딩](https://start.rudix.biz/sticks/5a/) |
-| `stick` | `5B` | 히코리 드럼스틱 5B | 8 | 2 | 3 | [상품](https://rudix.biz/shop_view/?idx=10) | [랜딩](https://start.rudix.biz/sticks/5b/) |
-| `stick` | `7A` | 히코리 드럼스틱 7A | 8 | 2 | 3 | [상품](https://rudix.biz/shop_view/?idx=11) | [랜딩](https://start.rudix.biz/sticks/7a/) |
-| `stick` | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 | 5 | [상품](https://rudix.biz/shop_view/?idx=7) | [랜딩](https://start.rudix.biz/accessories/stick-holder/) |
-| `pad` | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 | 5 | [상품](https://rudix.biz/shop_view/?idx=8) | [랜딩](https://start.rudix.biz/pads/8-master/) |
-| `pad` | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 | 4 | [상품](https://rudix.biz/shop_view/?idx=6) | [랜딩](https://start.rudix.biz/pads/12-pro/) |
-| `pad` | `GUIDE` | 루디먼트 가이드 에디션 | 9 | 14 | 13 | [상품](https://rudix.biz/shop_view/?idx=14) | [랜딩](https://start.rudix.biz/pads/guide-edition/) |
-| `throne` | `PSTV` | Pro 안장형 스크류 드럼의자 PSTV | 3 | 20 | 6 | [상품](https://rudix.biz/shop_view/?idx=5) | [랜딩](https://start.rudix.biz/thrones/pstv/) |
-| `throne` | `PSTL` | Pro 안장형 스크류 드럼의자 PSTL | 4 | 19 | 6 | [상품](https://rudix.biz/shop_view/?idx=12) | [랜딩](https://start.rudix.biz/thrones/pstl/) |
-| `throne` | `MRNL` | Master 원형 유압 드럼의자 MRNL | 1 | 32 | 1 | [상품](https://rudix.biz/shop_view/?idx=15) | [랜딩](https://start.rudix.biz/thrones/mrnl/) |
-| `throne` | `MRNV` | Master 원형 유압 드럼의자 MRNV | 1 | 32 | 1 | [상품](https://rudix.biz/shop_view/?idx=16) | [랜딩](https://start.rudix.biz/thrones/mrnv/) |
-| `throne` | `MRTL` | Master 원형 스크류 드럼의자 MRTL | 1 | 29 | 1 | [상품](https://rudix.biz/shop_view/?idx=17) | [랜딩](https://start.rudix.biz/thrones/mrtl/) |
-| `throne` | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=18) | [랜딩](https://start.rudix.biz/thrones/mrtv/) |
-| `throne` | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=19) | [랜딩](https://start.rudix.biz/thrones/msnv/) |
-| `throne` | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=20) | [랜딩](https://start.rudix.biz/thrones/msnl/) |
+| 카테고리 | 코드 | 제품 | 사진 | 조각 | 자사몰 | 랜딩 |
+|---|---|---|---|---|---|---|
+| `stick` | `5A` | 히코리 드럼스틱 5A | 8 | 19 | [상품](https://rudix.biz/shop_view/?idx=13) | [랜딩](https://start.rudix.biz/sticks/5a/) |
+| `stick` | `5B` | 히코리 드럼스틱 5B | 8 | 2 | [상품](https://rudix.biz/shop_view/?idx=10) | [랜딩](https://start.rudix.biz/sticks/5b/) |
+| `stick` | `7A` | 히코리 드럼스틱 7A | 8 | 2 | [상품](https://rudix.biz/shop_view/?idx=11) | [랜딩](https://start.rudix.biz/sticks/7a/) |
+| `stick` | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 | [상품](https://rudix.biz/shop_view/?idx=7) | [랜딩](https://start.rudix.biz/accessories/stick-holder/) |
+| `pad` | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 | [상품](https://rudix.biz/shop_view/?idx=8) | [랜딩](https://start.rudix.biz/pads/8-master/) |
+| `pad` | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 | [상품](https://rudix.biz/shop_view/?idx=6) | [랜딩](https://start.rudix.biz/pads/12-pro/) |
+| `pad` | `GUIDE` | 루디먼트 가이드 에디션 | 9 | 14 | [상품](https://rudix.biz/shop_view/?idx=14) | [랜딩](https://start.rudix.biz/pads/guide-edition/) |
+| `throne` | `PSTV` | Pro 안장형 스크류 드럼의자 PSTV | 3 | 20 | [상품](https://rudix.biz/shop_view/?idx=5) | [랜딩](https://start.rudix.biz/thrones/pstv/) |
+| `throne` | `PSTL` | Pro 안장형 스크류 드럼의자 PSTL | 4 | 19 | [상품](https://rudix.biz/shop_view/?idx=12) | [랜딩](https://start.rudix.biz/thrones/pstl/) |
+| `throne` | `MRNL` | Master 원형 유압 드럼의자 MRNL | 1 | 32 | [상품](https://rudix.biz/shop_view/?idx=15) | [랜딩](https://start.rudix.biz/thrones/mrnl/) |
+| `throne` | `MRNV` | Master 원형 유압 드럼의자 MRNV | 1 | 32 | [상품](https://rudix.biz/shop_view/?idx=16) | [랜딩](https://start.rudix.biz/thrones/mrnv/) |
+| `throne` | `MRTL` | Master 원형 스크류 드럼의자 MRTL | 1 | 29 | [상품](https://rudix.biz/shop_view/?idx=17) | [랜딩](https://start.rudix.biz/thrones/mrtl/) |
+| `throne` | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=18) | [랜딩](https://start.rudix.biz/thrones/mrtv/) |
+| `throne` | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=19) | [랜딩](https://start.rudix.biz/thrones/msnv/) |
+| `throne` | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=20) | [랜딩](https://start.rudix.biz/thrones/msnl/) |
 
 ### 의자 코드 읽는 법
 
@@ -103,6 +105,8 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 
 ## 5. 새 이미지를 추가할 때
 
+0. **저장소 전체 크기가 50MB 를 넘지 않는지 먼저 확인한다.** 넘으면 jsDelivr 가
+   전부 403 을 돌려준다. 큰 원본은 `brand-assets-source` 로 보낸다
 1. 규칙에 맞는 경로와 파일명으로 넣는다. 해상도를 파일명에 반드시 포함한다
 2. 해당 제품 `README.md` 의 표에 한 줄 추가한다
 3. `manifest.json` 에도 반영한다

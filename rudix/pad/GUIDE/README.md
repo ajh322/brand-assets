@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=14>
 - 랜딩 <https://start.rudix.biz/pads/guide-edition/>  (광고 착지 전용, noindex)
 
-제품 사진 9장 · 상세 조각 14장 · 상세 원본 13장
+제품 사진 9장 · 상세 조각 14장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/GUIDE/`
 
@@ -14,11 +14,11 @@
 | 파일 | 해상도 |
 |---|---|
 | `thumbnail/GUIDE-thumb-00-1000x1000.jpg` | 1000x1000 |
-| `thumbnail/GUIDE-thumb-01-1000x1000.png` | 1000x1000 |
+| `thumbnail/GUIDE-thumb-01-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/GUIDE-thumb-02-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/GUIDE-thumb-03-1000x1000.jpg` | 1000x1000 |
-| `thumbnail/GUIDE-thumb-04-1000x1000.png` | 1000x1000 |
-| `thumbnail/GUIDE-thumb-05-1000x1000.png` | 1000x1000 |
+| `thumbnail/GUIDE-thumb-04-1000x1000.jpg` | 1000x1000 |
+| `thumbnail/GUIDE-thumb-05-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/GUIDE-thumb-06-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/GUIDE-thumb-07-1000x1000.jpg` | 1000x1000 |
 | `thumbnail/GUIDE-thumb-08-1000x1000.jpg` | 1000x1000 |
@@ -47,20 +47,7 @@
 
 ## source — 상세 원본
 
-자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+자르기 전 원본은 별도 저장소에 있다. jsDelivr 가 저장소당 50MB 까지만
+서빙해서 여기 두면 전체가 403 이 된다.
 
-| 파일 | 해상도 |
-|---|---|
-| `source/GUIDE-source-00-780x1696.png` | 780x1696 |
-| `source/GUIDE-source-01-780x1266.jpg` | 780x1266 |
-| `source/GUIDE-source-02-780x1062.jpg` | 780x1062 |
-| `source/GUIDE-source-03-780x1131.jpg` | 780x1131 |
-| `source/GUIDE-source-04-780x1385.jpg` | 780x1385 |
-| `source/GUIDE-source-05-780x1301.jpg` | 780x1301 |
-| `source/GUIDE-source-06-779x1375.jpg` | 779x1375 |
-| `source/GUIDE-source-07-780x1032.jpg` | 780x1032 |
-| `source/GUIDE-source-08-780x1477.jpg` | 780x1477 |
-| `source/GUIDE-source-09-780x1424.jpg` | 780x1424 |
-| `source/GUIDE-source-10-780x998.jpg` | 780x998 |
-| `source/GUIDE-source-11-780x1125.jpg` | 780x1125 |
-| `source/GUIDE-source-12-780x1111.jpg` | 780x1111 |
+<https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/GUIDE/source>
