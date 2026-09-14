@@ -1,48 +1,54 @@
-# Master 라운드 유압 벨벳 (MRNV)
+# Master 라운드 유압 벨벳 — `MRNV`
 
-자사몰 idx=16 · https://rudix.biz/shop_view/?idx=16
+자사몰 idx=16 · <https://rudix.biz/shop_view/?idx=16>
 
-## 갤러리 컷 1장
+썸네일 1장 / 상세 32장
 
-제품 사진. 첫 장이 대표이미지다.
+링크 접두사: `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV/`
 
-- `gallery-00.jpg`
+## thumbnail — 제품 사진
 
-## 상세 조각 32장
+쇼핑몰 갤러리 컷. `thumb-00` 이 대표이미지다.
 
-상세페이지 긴 이미지를 여백 기준으로 자른 것.
-
-| 파일 | 내용 |
+| 파일 | 해상도 |
 |---|---|
-| `detail-00.jpg` | 드럼 의자 정면 사진 |
-| `detail-01.jpg` | 브랜드 소개 문구 |
-| `detail-02.jpg` | 드럼 세트 연출 사진 |
-| `detail-03.jpg` | 브랜드 철학 문구 |
-| `detail-04.jpg` | 5단계 제작 공정 |
-| `detail-05.jpg` | 드럼 의자 측면 |
-| `detail-06.jpg` | 미상 |
-| `detail-07.jpg` | 미상 |
-| `detail-08.jpg` | 언론 주목 문구 |
-| `detail-09.jpg` | 언론 보도 목록 |
-| `detail-10.jpg` | 제품 특징 요약 |
-| `detail-11.jpg` | 섹션 번호 01 |
-| `detail-12.jpg` | 다리 하부 구조 |
-| `detail-13.jpg` | 고무 발판 클로즈업 |
-| `detail-14.jpg` | 미상 |
-| `detail-15.jpg` | 미상 |
-| `detail-16.jpg` | 높이 조절 소구 |
-| `detail-17.jpg` | 넘버링 03 |
-| `detail-18.jpg` | 이중 합금 다리 |
-| `detail-19.jpg` | 안정성 소구 |
-| `detail-20.jpg` | 넘버링 04 |
-| `detail-21.jpg` | 벨벳 |
-| `detail-22.jpg` | 미상 |
-| `detail-23.jpg` | 미상 |
-| `detail-24.jpg` | 크롬 합금 내구성 |
-| `detail-25.jpg` | 제품 상세 치수 |
-| `detail-26.jpg` | 제품 상세 규격 |
-| `detail-27.jpg` | 상세 규격표 |
-| `detail-28.jpg` | 제품 단체 연출컷 |
-| `detail-29.jpg` | 브랜드 로고 |
-| `detail-30.jpg` | 초도 발주 공지 |
-| `detail-31.jpg` | 미상 |
+| `thumbnail/MRNV-thumb-00-1000x1000.jpg` | 1000x1000 |
+
+## detail — 상세페이지 조각
+
+상세페이지 긴 이미지를 여백 기준으로 자른 것. 캡션은 자동 판독이라 참고용이다.
+
+| 파일 | 해상도 | 내용 |
+|---|---|---|
+| `detail/MRNV-detail-00-860x1331.jpg` | 860x1331 | 드럼 의자 정면 사진 |
+| `detail/MRNV-detail-01-860x510.jpg` | 860x510 | 브랜드 소개 문구 |
+| `detail/MRNV-detail-02-860x1295.jpg` | 860x1295 | 드럼 세트 연출 사진 |
+| `detail/MRNV-detail-03-860x405.jpg` | 860x405 | 브랜드 철학 문구 |
+| `detail/MRNV-detail-04-860x1518.jpg` | 860x1518 | 5단계 제작 공정 |
+| `detail/MRNV-detail-05-860x1275.jpg` | 860x1275 | 드럼 의자 측면 |
+| `detail/MRNV-detail-06-860x1321.jpg` | 860x1321 | 미상 |
+| `detail/MRNV-detail-07-860x269.jpg` | 860x269 | 미상 |
+| `detail/MRNV-detail-08-860x347.jpg` | 860x347 | 언론 주목 문구 |
+| `detail/MRNV-detail-09-860x1059.jpg` | 860x1059 | 언론 보도 목록 |
+| `detail/MRNV-detail-10-860x2178.jpg` | 860x2178 | 제품 특징 요약 |
+| `detail/MRNV-detail-11-860x320.jpg` | 860x320 | 섹션 번호 01 |
+| `detail/MRNV-detail-12-860x907.jpg` | 860x907 | 다리 하부 구조 |
+| `detail/MRNV-detail-13-860x597.jpg` | 860x597 | 고무 발판 클로즈업 |
+| `detail/MRNV-detail-14-860x429.jpg` | 860x429 | 미상 |
+| `detail/MRNV-detail-15-860x1284.jpg` | 860x1284 | 미상 |
+| `detail/MRNV-detail-16-860x266.jpg` | 860x266 | 높이 조절 소구 |
+| `detail/MRNV-detail-17-860x309.jpg` | 860x309 | 넘버링 03 |
+| `detail/MRNV-detail-18-860x1024.jpg` | 860x1024 | 이중 합금 다리 |
+| `detail/MRNV-detail-19-860x271.jpg` | 860x271 | 안정성 소구 |
+| `detail/MRNV-detail-20-860x313.jpg` | 860x313 | 넘버링 04 |
+| `detail/MRNV-detail-21-860x1442.jpg` | 860x1442 | 벨벳 |
+| `detail/MRNV-detail-22-860x401.jpg` | 860x401 | 미상 |
+| `detail/MRNV-detail-23-860x869.jpg` | 860x869 | 미상 |
+| `detail/MRNV-detail-24-860x296.jpg` | 860x296 | 크롬 합금 내구성 |
+| `detail/MRNV-detail-25-860x427.jpg` | 860x427 | 제품 상세 치수 |
+| `detail/MRNV-detail-26-860x824.jpg` | 860x824 | 제품 상세 규격 |
+| `detail/MRNV-detail-27-860x656.jpg` | 860x656 | 상세 규격표 |
+| `detail/MRNV-detail-28-860x1154.jpg` | 860x1154 | 제품 단체 연출컷 |
+| `detail/MRNV-detail-29-860x268.jpg` | 860x268 | 브랜드 로고 |
+| `detail/MRNV-detail-30-860x354.jpg` | 860x354 | 초도 발주 공지 |
+| `detail/MRNV-detail-31-860x518.jpg` | 860x518 | 미상 |
