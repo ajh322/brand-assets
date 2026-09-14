@@ -1,10 +1,11 @@
-# Pro 새들 레더 — `PSTL`
+# Pro 안장형 스크류 드럼의자 PSTL — `PSTL`
 
-자사몰 idx=12 · <https://rudix.biz/shop_view/?idx=12>
+- 자사몰 <https://rudix.biz/shop_view/?idx=12>
+- 랜딩 <https://start.rudix.biz/thrones/pstl/>  (광고 착지 전용, noindex)
 
-썸네일 4장 / 상세 19장
+제품 사진 4장 · 상세 조각 19장 · 상세 원본 6장
 
-링크 접두사: `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTL/`
+링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTL/`
 
 ## thumbnail — 제품 사진
 
@@ -19,7 +20,8 @@
 
 ## detail — 상세페이지 조각
 
-상세페이지 긴 이미지를 여백 기준으로 자른 것. 캡션은 자동 판독이라 참고용이다.
+원본을 여백 기준으로 자른 것. 헤드라인과 사진과 설명이 한 세트로 들어
+있어 그대로 본문에 넣을 수 있다. 캡션은 자동 판독이라 참고용이다.
 
 | 파일 | 해상도 | 내용 |
 |---|---|---|
@@ -42,3 +44,16 @@
 | `detail/PSTL-detail-16-860x478.jpg` | 860x478 | 제품 사이즈 안내 |
 | `detail/PSTL-detail-17-860x760.jpg` | 860x760 | 제품 치수 표시 |
 | `detail/PSTL-detail-18-860x1052.jpg` | 860x1052 | 제품 상세 규격표 |
+
+## source — 상세 원본
+
+자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+
+| 파일 | 해상도 |
+|---|---|
+| `source/PSTL-source-00-860x1870.png` | 860x1870 |
+| `source/PSTL-source-01-860x1745.png` | 860x1745 |
+| `source/PSTL-source-02-860x292.png` | 860x292 |
+| `source/PSTL-source-03-860x10384.png` | 860x10384 |
+| `source/PSTL-source-04-860x2561.png` | 860x2561 |
+| `source/PSTL-source-05-860x1352.jpg` | 860x1352 |

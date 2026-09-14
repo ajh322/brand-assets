@@ -4,6 +4,10 @@
 이미지를 매번 다시 올리지 않고 여기 한 곳에 두고 URL 만 참조한다.
 
 현재 담긴 브랜드: **루딕스(Rudix)** — 드럼 스틱·연습패드·드럼의자 15개 제품.
+제품 사진 67장, 상세 조각 340장, 상세 원본 56장.
+
+제품별 주소는 아래 표에 있다. 자사몰 `rudix.biz` 가 판매처이고,
+`start.rudix.biz` 는 광고 착지 전용 랜딩이다(전 페이지 noindex).
 
 ---
 
@@ -30,9 +34,12 @@ rudix/stick/5A/thumbnail/5A-thumb-00-750x750.png
 |---|---|---|
 | `thumbnail/` | 쇼핑몰 갤러리 컷. 배경 정리된 제품 사진 | 목록 썸네일, 본문 제품 컷, SNS |
 | `detail/` | 상세페이지 긴 이미지를 여백 기준으로 자른 조각 | 본문 설명 이미지, 구조 클로즈업 |
+| `source/` | 자르기 전 원본 상세 이미지 | 재가공, 보관. 세로가 길어 본문에는 못 넣는다 |
 
 `thumb-00` 이 그 제품의 대표이미지다.
 `detail` 조각에는 헤드라인·사진·설명이 한 세트로 들어 있어 그대로 본문에 넣을 수 있다.
+`source` 는 그 조각들을 자르기 전의 원본이다. 860x24708 같은 크기라 본문에는 넣을
+수 없고, 다시 자르거나 부분을 오려낼 때 쓴다.
 
 ---
 
@@ -61,23 +68,23 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 
 ## 4. 루딕스 제품 코드
 
-| 카테고리 | 코드 | 제품 | 자사몰 |
-|---|---|---|---|
-| `stick` | `5A` | 드럼스틱 5A | [idx=13](https://rudix.biz/shop_view/?idx=13) |
-| `stick` | `5B` | 드럼스틱 5B | [idx=10](https://rudix.biz/shop_view/?idx=10) |
-| `stick` | `7A` | 드럼스틱 7A | [idx=11](https://rudix.biz/shop_view/?idx=11) |
-| `stick` | `CASE` | 스틱 홀더 케이스 | [idx=7](https://rudix.biz/shop_view/?idx=7) |
-| `pad` | `PAD8` | 8인치 연습용 드럼패드 세트 | [idx=8](https://rudix.biz/shop_view/?idx=8) |
-| `pad` | `PAD12` | 12인치 연습용 드럼패드 세트 | [idx=6](https://rudix.biz/shop_view/?idx=6) |
-| `pad` | `GUIDE` | 루디먼트 가이드 에디션 | [idx=14](https://rudix.biz/shop_view/?idx=14) |
-| `throne` | `PSTV` | Pro 새들 벨벳 | [idx=5](https://rudix.biz/shop_view/?idx=5) |
-| `throne` | `PSTL` | Pro 새들 레더 | [idx=12](https://rudix.biz/shop_view/?idx=12) |
-| `throne` | `MRNL` | Master 라운드 유압 레더 | [idx=15](https://rudix.biz/shop_view/?idx=15) |
-| `throne` | `MRNV` | Master 라운드 유압 벨벳 | [idx=16](https://rudix.biz/shop_view/?idx=16) |
-| `throne` | `MRTL` | Master 라운드 스크류 레더 | [idx=17](https://rudix.biz/shop_view/?idx=17) |
-| `throne` | `MRTV` | Master 라운드 스크류 벨벳 | [idx=18](https://rudix.biz/shop_view/?idx=18) |
-| `throne` | `MSNV` | Master 새들 유압 벨벳 | [idx=19](https://rudix.biz/shop_view/?idx=19) |
-| `throne` | `MSNL` | Master 새들 유압 레더 | [idx=20](https://rudix.biz/shop_view/?idx=20) |
+| 카테고리 | 코드 | 제품 | 사진 | 조각 | 원본 | 자사몰 | 랜딩 |
+|---|---|---|---|---|---|---|---|
+| `stick` | `5A` | 히코리 드럼스틱 5A | 8 | 19 | 5 | [상품](https://rudix.biz/shop_view/?idx=13) | [랜딩](https://start.rudix.biz/sticks/5a/) |
+| `stick` | `5B` | 히코리 드럼스틱 5B | 8 | 2 | 3 | [상품](https://rudix.biz/shop_view/?idx=10) | [랜딩](https://start.rudix.biz/sticks/5b/) |
+| `stick` | `7A` | 히코리 드럼스틱 7A | 8 | 2 | 3 | [상품](https://rudix.biz/shop_view/?idx=11) | [랜딩](https://start.rudix.biz/sticks/7a/) |
+| `stick` | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 | 5 | [상품](https://rudix.biz/shop_view/?idx=7) | [랜딩](https://start.rudix.biz/accessories/stick-holder/) |
+| `pad` | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 | 5 | [상품](https://rudix.biz/shop_view/?idx=8) | [랜딩](https://start.rudix.biz/pads/8-master/) |
+| `pad` | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 | 4 | [상품](https://rudix.biz/shop_view/?idx=6) | [랜딩](https://start.rudix.biz/pads/12-pro/) |
+| `pad` | `GUIDE` | 루디먼트 가이드 에디션 | 9 | 14 | 13 | [상품](https://rudix.biz/shop_view/?idx=14) | [랜딩](https://start.rudix.biz/pads/guide-edition/) |
+| `throne` | `PSTV` | Pro 안장형 스크류 드럼의자 PSTV | 3 | 20 | 6 | [상품](https://rudix.biz/shop_view/?idx=5) | [랜딩](https://start.rudix.biz/thrones/pstv/) |
+| `throne` | `PSTL` | Pro 안장형 스크류 드럼의자 PSTL | 4 | 19 | 6 | [상품](https://rudix.biz/shop_view/?idx=12) | [랜딩](https://start.rudix.biz/thrones/pstl/) |
+| `throne` | `MRNL` | Master 원형 유압 드럼의자 MRNL | 1 | 32 | 1 | [상품](https://rudix.biz/shop_view/?idx=15) | [랜딩](https://start.rudix.biz/thrones/mrnl/) |
+| `throne` | `MRNV` | Master 원형 유압 드럼의자 MRNV | 1 | 32 | 1 | [상품](https://rudix.biz/shop_view/?idx=16) | [랜딩](https://start.rudix.biz/thrones/mrnv/) |
+| `throne` | `MRTL` | Master 원형 스크류 드럼의자 MRTL | 1 | 29 | 1 | [상품](https://rudix.biz/shop_view/?idx=17) | [랜딩](https://start.rudix.biz/thrones/mrtl/) |
+| `throne` | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=18) | [랜딩](https://start.rudix.biz/thrones/mrtv/) |
+| `throne` | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=19) | [랜딩](https://start.rudix.biz/thrones/msnv/) |
+| `throne` | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 | 1 | [상품](https://rudix.biz/shop_view/?idx=20) | [랜딩](https://start.rudix.biz/thrones/msnl/) |
 
 ### 의자 코드 읽는 법
 

@@ -1,10 +1,11 @@
-# Pro 새들 벨벳 — `PSTV`
+# Pro 안장형 스크류 드럼의자 PSTV — `PSTV`
 
-자사몰 idx=5 · <https://rudix.biz/shop_view/?idx=5>
+- 자사몰 <https://rudix.biz/shop_view/?idx=5>
+- 랜딩 <https://start.rudix.biz/thrones/pstv/>  (광고 착지 전용, noindex)
 
-썸네일 3장 / 상세 20장
+제품 사진 3장 · 상세 조각 20장 · 상세 원본 6장
 
-링크 접두사: `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTV/`
+링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTV/`
 
 ## thumbnail — 제품 사진
 
@@ -18,7 +19,8 @@
 
 ## detail — 상세페이지 조각
 
-상세페이지 긴 이미지를 여백 기준으로 자른 것. 캡션은 자동 판독이라 참고용이다.
+원본을 여백 기준으로 자른 것. 헤드라인과 사진과 설명이 한 세트로 들어
+있어 그대로 본문에 넣을 수 있다. 캡션은 자동 판독이라 참고용이다.
 
 | 파일 | 해상도 | 내용 |
 |---|---|---|
@@ -42,3 +44,16 @@
 | `detail/PSTV-detail-17-860x1716.jpg` | 860x1716 | 브랜드 슬로건 |
 | `detail/PSTV-detail-18-860x286.jpg` | 860x286 | 타 라인업 안내 |
 | `detail/PSTV-detail-19-860x1003.jpg` | 860x1003 | 연관 제품 목록 |
+
+## source — 상세 원본
+
+자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+
+| 파일 | 해상도 |
+|---|---|
+| `source/PSTV-source-00-860x1870.png` | 860x1870 |
+| `source/PSTV-source-01-860x1745.png` | 860x1745 |
+| `source/PSTV-source-02-860x292.png` | 860x292 |
+| `source/PSTV-source-03-860x10384.png` | 860x10384 |
+| `source/PSTV-source-04-780x2322.jpg` | 780x2322 |
+| `source/PSTV-source-05-860x1352.png` | 860x1352 |

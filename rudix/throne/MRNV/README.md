@@ -1,10 +1,11 @@
-# Master 라운드 유압 벨벳 — `MRNV`
+# Master 원형 유압 드럼의자 MRNV — `MRNV`
 
-자사몰 idx=16 · <https://rudix.biz/shop_view/?idx=16>
+- 자사몰 <https://rudix.biz/shop_view/?idx=16>
+- 랜딩 <https://start.rudix.biz/thrones/mrnv/>  (광고 착지 전용, noindex)
 
-썸네일 1장 / 상세 32장
+제품 사진 1장 · 상세 조각 32장 · 상세 원본 1장
 
-링크 접두사: `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV/`
+링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV/`
 
 ## thumbnail — 제품 사진
 
@@ -16,7 +17,8 @@
 
 ## detail — 상세페이지 조각
 
-상세페이지 긴 이미지를 여백 기준으로 자른 것. 캡션은 자동 판독이라 참고용이다.
+원본을 여백 기준으로 자른 것. 헤드라인과 사진과 설명이 한 세트로 들어
+있어 그대로 본문에 넣을 수 있다. 캡션은 자동 판독이라 참고용이다.
 
 | 파일 | 해상도 | 내용 |
 |---|---|---|
@@ -52,3 +54,11 @@
 | `detail/MRNV-detail-29-860x268.jpg` | 860x268 | 브랜드 로고 |
 | `detail/MRNV-detail-30-860x354.jpg` | 860x354 | 초도 발주 공지 |
 | `detail/MRNV-detail-31-860x518.jpg` | 860x518 | 미상 |
+
+## source — 상세 원본
+
+자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+
+| 파일 | 해상도 |
+|---|---|
+| `source/MRNV-source-00-860x24708.jpg` | 860x24708 |

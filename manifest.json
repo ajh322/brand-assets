@@ -1,378 +1,1621 @@
 {
-  "GUIDE": {
-    "category": "pad",
-    "thumbnail": [
-      {
-        "file": "thumbnail/GUIDE-thumb-00-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-01-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-02-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-03-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-04-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-05-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-06-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-07-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/GUIDE-thumb-08-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      }
-    ],
-    "detail": []
-  },
-  "PAD12": {
-    "category": "pad",
-    "thumbnail": [
-      {
-        "file": "thumbnail/PAD12-thumb-00-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-01-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-02-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-03-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-04-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-05-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD12-thumb-06-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      }
-    ],
-    "detail": []
-  },
-  "PAD8": {
-    "category": "pad",
-    "thumbnail": [
-      {
-        "file": "thumbnail/PAD8-thumb-00-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-01-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-02-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-03-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-04-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-05-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-06-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-07-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PAD8-thumb-08-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      }
-    ],
-    "detail": []
-  },
   "5A": {
     "category": "stick",
+    "idx": 13,
+    "label": "히코리 드럼스틱 5A",
+    "shop_url": "https://rudix.biz/shop_view/?idx=13",
+    "landing_url": "https://start.rudix.biz/sticks/5a/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5A",
     "thumbnail": [
       {
         "file": "thumbnail/5A-thumb-00-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-01-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-02-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-03-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-04-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-05-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-06-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5A-thumb-07-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/5A-detail-00-860x1295.jpg",
+        "w": 860,
+        "h": 1295,
+        "caption": "**Image 7:**"
+      },
+      {
+        "file": "detail/5A-detail-01-860x415.jpg",
+        "w": 860,
+        "h": 415,
+        "caption": "*   *Content:* Two sections (1 and 2). Section 1: Photo of drumsticks and certificates, text about North American Hickory. Section 2:"
+      },
+      {
+        "file": "detail/5A-detail-02-860x1319.jpg",
+        "w": 860,
+        "h": 1319,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-03-860x271.jpg",
+        "w": 860,
+        "h": 271,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-04-860x595.jpg",
+        "w": 860,
+        "h": 595,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-05-860x658.jpg",
+        "w": 860,
+        "h": 658,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-06-860x1246.jpg",
+        "w": 860,
+        "h": 1246,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-07-860x944.jpg",
+        "w": 860,
+        "h": 944,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-08-860x968.jpg",
+        "w": 860,
+        "h": 968,
+        "caption": "스틱 무게 측정 사진"
+      },
+      {
+        "file": "detail/5A-detail-09-860x1644.jpg",
+        "w": 860,
+        "h": 1644,
+        "caption": "스틱 종류별 비교"
+      },
+      {
+        "file": "detail/5A-detail-10-860x708.jpg",
+        "w": 860,
+        "h": 708,
+        "caption": "추천 대상 안내 문구"
+      },
+      {
+        "file": "detail/5A-detail-11-860x331.jpg",
+        "w": 860,
+        "h": 331,
+        "caption": "추천 대상 목록"
+      },
+      {
+        "file": "detail/5A-detail-12-860x425.jpg",
+        "w": 860,
+        "h": 425,
+        "caption": "상세표시 타이틀"
+      },
+      {
+        "file": "detail/5A-detail-13-860x799.jpg",
+        "w": 860,
+        "h": 799,
+        "caption": "스틱 길이 수치"
+      },
+      {
+        "file": "detail/5A-detail-14-860x766.jpg",
+        "w": 860,
+        "h": 766,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-15-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/5A-detail-16-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      },
+      {
+        "file": "detail/5A-detail-17-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "라인업 안내 문구"
+      },
+      {
+        "file": "detail/5A-detail-18-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "라인업 제품 사진"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/5A-source-00-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/5A-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/5A-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/5A-source-03-860x12462.jpg",
+        "w": 860,
+        "h": 12462
+      },
+      {
+        "file": "source/5A-source-04-860x1352.png",
+        "w": 860,
+        "h": 1352
+      }
+    ]
   },
   "5B": {
     "category": "stick",
+    "idx": 10,
+    "label": "히코리 드럼스틱 5B",
+    "shop_url": "https://rudix.biz/shop_view/?idx=10",
+    "landing_url": "https://start.rudix.biz/sticks/5b/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5B",
     "thumbnail": [
       {
         "file": "thumbnail/5B-thumb-00-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-01-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-02-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-03-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-04-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-05-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-06-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/5B-thumb-07-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/5B-detail-00-860x1658.jpg",
+        "w": 860,
+        "h": 1658,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/5B-detail-01-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/5B-source-00-860x1681.png",
+        "w": 860,
+        "h": 1681
+      },
+      {
+        "file": "source/5B-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/5B-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      }
+    ]
   },
   "7A": {
     "category": "stick",
+    "idx": 11,
+    "label": "히코리 드럼스틱 7A",
+    "shop_url": "https://rudix.biz/shop_view/?idx=11",
+    "landing_url": "https://start.rudix.biz/sticks/7a/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/7A",
     "thumbnail": [
       {
         "file": "thumbnail/7A-thumb-00-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-01-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-02-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-03-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-04-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-05-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-06-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/7A-thumb-07-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/7A-detail-00-860x1658.jpg",
+        "w": 860,
+        "h": 1658,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/7A-detail-01-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/7A-source-00-860x1681.png",
+        "w": 860,
+        "h": 1681
+      },
+      {
+        "file": "source/7A-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/7A-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      }
+    ]
   },
   "CASE": {
     "category": "stick",
+    "idx": 7,
+    "label": "드럼스틱 홀더 케이스 가방",
+    "shop_url": "https://rudix.biz/shop_view/?idx=7",
+    "landing_url": "https://start.rudix.biz/accessories/stick-holder/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/CASE",
     "thumbnail": [
       {
         "file": "thumbnail/CASE-thumb-00-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/CASE-thumb-01-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/CASE-thumb-02-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/CASE-thumb-03-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       },
       {
         "file": "thumbnail/CASE-thumb-04-1000x1000.png",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/CASE-detail-00-860x1808.jpg",
+        "w": 860,
+        "h": 1808,
+        "caption": "드럼스틱 홀더 연출컷"
+      },
+      {
+        "file": "detail/CASE-detail-01-860x432.jpg",
+        "w": 860,
+        "h": 432,
+        "caption": "브랜드 선택 이유"
+      },
+      {
+        "file": "detail/CASE-detail-02-860x829.jpg",
+        "w": 860,
+        "h": 829,
+        "caption": "연주 완성도 소구"
+      },
+      {
+        "file": "detail/CASE-detail-03-860x345.jpg",
+        "w": 860,
+        "h": 345,
+        "caption": "제품명 강조 문구"
+      },
+      {
+        "file": "detail/CASE-detail-04-860x330.jpg",
+        "w": 860,
+        "h": 330,
+        "caption": "5가지 핵심 요소"
+      },
+      {
+        "file": "detail/CASE-detail-05-860x1649.jpg",
+        "w": 860,
+        "h": 1649,
+        "caption": "상세 구조 및"
+      },
+      {
+        "file": "detail/CASE-detail-06-860x1094.jpg",
+        "w": 860,
+        "h": 1094,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/CASE-detail-07-860x567.jpg",
+        "w": 860,
+        "h": 567,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/CASE-detail-08-860x631.jpg",
+        "w": 860,
+        "h": 631,
+        "caption": "타사 비교 안내"
+      },
+      {
+        "file": "detail/CASE-detail-09-860x1439.jpg",
+        "w": 860,
+        "h": 1439,
+        "caption": "타사 제품 비교표"
+      },
+      {
+        "file": "detail/CASE-detail-10-860x1319.jpg",
+        "w": 860,
+        "h": 1319,
+        "caption": "브랜드 슬로건"
+      },
+      {
+        "file": "detail/CASE-detail-11-860x267.jpg",
+        "w": 860,
+        "h": 267,
+        "caption": "제품 소구 문구"
+      },
+      {
+        "file": "detail/CASE-detail-12-860x500.jpg",
+        "w": 860,
+        "h": 500,
+        "caption": "상세 스펙 도입부"
+      },
+      {
+        "file": "detail/CASE-detail-13-860x835.jpg",
+        "w": 860,
+        "h": 835,
+        "caption": "제품 사이즈 안내"
+      },
+      {
+        "file": "detail/CASE-detail-14-860x807.jpg",
+        "w": 860,
+        "h": 807,
+        "caption": "제품 상세 규격"
+      },
+      {
+        "file": "detail/CASE-detail-15-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/CASE-detail-16-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      },
+      {
+        "file": "detail/CASE-detail-17-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "다른 라인업 안내"
+      },
+      {
+        "file": "detail/CASE-detail-18-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "연관 상품 목록"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/CASE-source-00-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/CASE-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/CASE-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/CASE-source-03-860x12932.jpg",
+        "w": 860,
+        "h": 12932
+      },
+      {
+        "file": "source/CASE-source-04-860x1352.png",
+        "w": 860,
+        "h": 1352
+      }
+    ]
+  },
+  "PAD8": {
+    "category": "pad",
+    "idx": 8,
+    "label": "Master 8인치 연습용 드럼패드 세트",
+    "shop_url": "https://rudix.biz/shop_view/?idx=8",
+    "landing_url": "https://start.rudix.biz/pads/8-master/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD8",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PAD8-thumb-00-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-01-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-02-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-03-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-04-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-05-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-06-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-07-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8-thumb-08-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PAD8-detail-00-720x960.jpg",
+        "w": 720,
+        "h": 960,
+        "caption": "드럼 패드 연주 모습"
+      },
+      {
+        "file": "detail/PAD8-detail-01-860x435.jpg",
+        "w": 860,
+        "h": 435,
+        "caption": "제품 진화 슬로건"
+      },
+      {
+        "file": "detail/PAD8-detail-02-860x1431.jpg",
+        "w": 860,
+        "h": 1431,
+        "caption": "제품 전체 세트"
+      },
+      {
+        "file": "detail/PAD8-detail-03-860x1301.jpg",
+        "w": 860,
+        "h": 1301,
+        "caption": "브랜드 선택 이유"
+      },
+      {
+        "file": "detail/PAD8-detail-04-860x1217.jpg",
+        "w": 860,
+        "h": 1217,
+        "caption": "언론 보도 내역"
+      },
+      {
+        "file": "detail/PAD8-detail-05-860x1042.jpg",
+        "w": 860,
+        "h": 1042,
+        "caption": "제품 추천 대상"
+      },
+      {
+        "file": "detail/PAD8-detail-06-860x1581.jpg",
+        "w": 860,
+        "h": 1581,
+        "caption": "세트 구성품 안내"
+      },
+      {
+        "file": "detail/PAD8-detail-07-860x270.jpg",
+        "w": 860,
+        "h": 270,
+        "caption": "제품 차별점 소구"
+      },
+      {
+        "file": "detail/PAD8-detail-08-860x1977.jpg",
+        "w": 860,
+        "h": 1977,
+        "caption": "제품 주요 특징"
+      },
+      {
+        "file": "detail/PAD8-detail-09-860x1705.jpg",
+        "w": 860,
+        "h": 1705,
+        "caption": "패드 3중 구조"
+      },
+      {
+        "file": "detail/PAD8-detail-10-860x498.jpg",
+        "w": 860,
+        "h": 498,
+        "caption": "하단 방진 스펀지"
+      },
+      {
+        "file": "detail/PAD8-detail-11-860x354.jpg",
+        "w": 860,
+        "h": 354,
+        "caption": "패드 밑면 클로즈업"
+      },
+      {
+        "file": "detail/PAD8-detail-12-860x433.jpg",
+        "w": 860,
+        "h": 433,
+        "caption": "흔들림 방지 소구"
+      },
+      {
+        "file": "detail/PAD8-detail-13-860x973.jpg",
+        "w": 860,
+        "h": 973,
+        "caption": "스탠드"
+      },
+      {
+        "file": "detail/PAD8-detail-14-860x561.jpg",
+        "w": 860,
+        "h": 561,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-15-860x277.jpg",
+        "w": 860,
+        "h": 277,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-16-860x262.jpg",
+        "w": 860,
+        "h": 262,
+        "caption": "페어 매칭 스틱 소구"
+      },
+      {
+        "file": "detail/PAD8-detail-17-860x903.jpg",
+        "w": 860,
+        "h": 903,
+        "caption": "드럼 스틱 팁 클로즈업"
+      },
+      {
+        "file": "detail/PAD8-detail-18-860x273.jpg",
+        "w": 860,
+        "h": 273,
+        "caption": "스틱 정밀 매칭 소구"
+      },
+      {
+        "file": "detail/PAD8-detail-19-860x411.jpg",
+        "w": 860,
+        "h": 411,
+        "caption": "전용 가방 수납 소구"
+      },
+      {
+        "file": "detail/PAD8-detail-20-860x1087.jpg",
+        "w": 860,
+        "h": 1087,
+        "caption": "패"
+      },
+      {
+        "file": "detail/PAD8-detail-21-860x324.jpg",
+        "w": 860,
+        "h": 324,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-22-860x1230.jpg",
+        "w": 860,
+        "h": 1230,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-23-860x397.jpg",
+        "w": 860,
+        "h": 397,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-24-860x290.jpg",
+        "w": 860,
+        "h": 290,
+        "caption": "스탠드 펼치기 방법"
+      },
+      {
+        "file": "detail/PAD8-detail-25-860x733.jpg",
+        "w": 860,
+        "h": 733,
+        "caption": "스탠드 높이 조절부"
+      },
+      {
+        "file": "detail/PAD8-detail-26-860x282.jpg",
+        "w": 860,
+        "h": 282,
+        "caption": "연습패드 결합 방법"
+      },
+      {
+        "file": "detail/PAD8-detail-27-860x972.jpg",
+        "w": 860,
+        "h": 972,
+        "caption": "패드 결합부 클로즈업"
+      },
+      {
+        "file": "detail/PAD8-detail-28-860x504.jpg",
+        "w": 860,
+        "h": 504,
+        "caption": "마무리 확인 안내"
+      },
+      {
+        "file": "detail/PAD8-detail-29-860x500.jpg",
+        "w": 860,
+        "h": 500,
+        "caption": "패"
+      },
+      {
+        "file": "detail/PAD8-detail-30-860x612.jpg",
+        "w": 860,
+        "h": 612,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-31-860x980.jpg",
+        "w": 860,
+        "h": 980,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD8-detail-32-860x880.jpg",
+        "w": 860,
+        "h": 880,
+        "caption": "가방과 스틱 크기"
+      },
+      {
+        "file": "detail/PAD8-detail-33-860x838.jpg",
+        "w": 860,
+        "h": 838,
+        "caption": "제품 상세 규격표"
+      },
+      {
+        "file": "detail/PAD8-detail-34-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/PAD8-detail-35-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "다른 라인업 안내"
+      },
+      {
+        "file": "detail/PAD8-detail-36-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "연관 상품 목록"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/PAD8-source-00-720x960.jpg",
+        "w": 720,
+        "h": 960
+      },
+      {
+        "file": "source/PAD8-source-01-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/PAD8-source-02-860x25602.jpg",
+        "w": 860,
+        "h": 25602
+      },
+      {
+        "file": "source/PAD8-source-03-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/PAD8-source-04-860x1352.png",
+        "w": 860,
+        "h": 1352
+      }
+    ]
+  },
+  "PAD12": {
+    "category": "pad",
+    "idx": 6,
+    "label": "Pro 12인치 연습용 드럼패드 세트",
+    "shop_url": "https://rudix.biz/shop_view/?idx=6",
+    "landing_url": "https://start.rudix.biz/pads/12-pro/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD12",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PAD12-thumb-00-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-01-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-02-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-03-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-04-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-05-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD12-thumb-06-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PAD12-detail-00-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/PAD12-detail-01-860x1555.jpg",
+        "w": 860,
+        "h": 1555,
+        "caption": "드럼패드 세트 구성"
+      },
+      {
+        "file": "detail/PAD12-detail-02-860x1299.jpg",
+        "w": 860,
+        "h": 1299,
+        "caption": "실제 연주 모습"
+      },
+      {
+        "file": "detail/PAD12-detail-03-860x962.jpg",
+        "w": 860,
+        "h": 962,
+        "caption": "언론 보도 내역"
+      },
+      {
+        "file": "detail/PAD12-detail-04-860x615.jpg",
+        "w": 860,
+        "h": 615,
+        "caption": "4가지 핵심 요소"
+      },
+      {
+        "file": "detail/PAD12-detail-05-860x1132.jpg",
+        "w": 860,
+        "h": 1132,
+        "caption": "30cm 패드 크기"
+      },
+      {
+        "file": "detail/PAD12-detail-06-860x892.jpg",
+        "w": 860,
+        "h": 892,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD12-detail-07-860x1666.jpg",
+        "w": 860,
+        "h": 1666,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD12-detail-08-860x1522.jpg",
+        "w": 860,
+        "h": 1522,
+        "caption": "올인원 세트 구성"
+      },
+      {
+        "file": "detail/PAD12-detail-09-860x1157.jpg",
+        "w": 860,
+        "h": 1157,
+        "caption": "드럼 패드 연출컷"
+      },
+      {
+        "file": "detail/PAD12-detail-10-860x496.jpg",
+        "w": 860,
+        "h": 496,
+        "caption": "조립 주의사항"
+      },
+      {
+        "file": "detail/PAD12-detail-11-860x647.jpg",
+        "w": 860,
+        "h": 647,
+        "caption": "스탠드 하부 구조"
+      },
+      {
+        "file": "detail/PAD12-detail-12-860x729.jpg",
+        "w": 860,
+        "h": 729,
+        "caption": "패드 홀더 조절부"
+      },
+      {
+        "file": "detail/PAD12-detail-13-860x919.jpg",
+        "w": 860,
+        "h": 919,
+        "caption": "스탠드 높"
+      },
+      {
+        "file": "detail/PAD12-detail-14-860x1237.jpg",
+        "w": 860,
+        "h": 1237,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD12-detail-15-860x1264.jpg",
+        "w": 860,
+        "h": 1264,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PAD12-detail-16-860x577.jpg",
+        "w": 860,
+        "h": 577,
+        "caption": "드럼패드 크기"
+      },
+      {
+        "file": "detail/PAD12-detail-17-860x558.jpg",
+        "w": 860,
+        "h": 558,
+        "caption": "가방 스틱 규격"
+      },
+      {
+        "file": "detail/PAD12-detail-18-860x724.jpg",
+        "w": 860,
+        "h": 724,
+        "caption": "상세 규격표"
+      },
+      {
+        "file": "detail/PAD12-detail-19-860x958.jpg",
+        "w": 860,
+        "h": 958,
+        "caption": "브랜드 스토리"
+      },
+      {
+        "file": "detail/PAD12-detail-20-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "다른 라인업 안내"
+      },
+      {
+        "file": "detail/PAD12-detail-21-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "관련 상품 목록"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/PAD12-source-00-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/PAD12-source-01-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/PAD12-source-02-860x18990.png",
+        "w": 860,
+        "h": 18990
+      },
+      {
+        "file": "source/PAD12-source-03-860x1352.png",
+        "w": 860,
+        "h": 1352
+      }
+    ]
+  },
+  "GUIDE": {
+    "category": "pad",
+    "idx": 14,
+    "label": "루디먼트 가이드 에디션",
+    "shop_url": "https://rudix.biz/shop_view/?idx=14",
+    "landing_url": "https://start.rudix.biz/pads/guide-edition/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/GUIDE",
+    "thumbnail": [
+      {
+        "file": "thumbnail/GUIDE-thumb-00-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-01-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-02-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-03-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-04-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-05-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-06-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-07-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/GUIDE-thumb-08-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/GUIDE-detail-00-780x1193.jpg",
+        "w": 780,
+        "h": 1193,
+        "caption": "패키지 구성품 연출컷"
+      },
+      {
+        "file": "detail/GUIDE-detail-01-780x916.jpg",
+        "w": 780,
+        "h": 916,
+        "caption": "드럼 연주자 뒷모습"
+      },
+      {
+        "file": "detail/GUIDE-detail-02-780x871.jpg",
+        "w": 780,
+        "h": 871,
+        "caption": "언론 보도 캡처"
+      },
+      {
+        "file": "detail/GUIDE-detail-03-780x1342.jpg",
+        "w": 780,
+        "h": 1342,
+        "caption": "패키지 구성품 나열"
+      },
+      {
+        "file": "detail/GUIDE-detail-04-780x1301.jpg",
+        "w": 780,
+        "h": 1301,
+        "caption": "커리큘럼 교재"
+      },
+      {
+        "file": "detail/GUIDE-detail-05-779x339.jpg",
+        "w": 779,
+        "h": 339,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/GUIDE-detail-06-779x1005.jpg",
+        "w": 779,
+        "h": 1005,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/GUIDE-detail-07-780x822.jpg",
+        "w": 780,
+        "h": 822,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/GUIDE-detail-08-780x1477.jpg",
+        "w": 780,
+        "h": 1477,
+        "caption": "페어 매칭 스틱"
+      },
+      {
+        "file": "detail/GUIDE-detail-09-780x1395.jpg",
+        "w": 780,
+        "h": 1395,
+        "caption": "올인원 풀세트"
+      },
+      {
+        "file": "detail/GUIDE-detail-10-780x998.jpg",
+        "w": 780,
+        "h": 998,
+        "caption": "드럼패드 타격 연출"
+      },
+      {
+        "file": "detail/GUIDE-detail-11-780x947.jpg",
+        "w": 780,
+        "h": 947,
+        "caption": "스탠드 상단 구조"
+      },
+      {
+        "file": "detail/GUIDE-detail-12-780x937.jpg",
+        "w": 780,
+        "h": 937,
+        "caption": "스탠드 각도 조절"
+      },
+      {
+        "file": "detail/GUIDE-detail-13-780x1328.jpg",
+        "w": 780,
+        "h": 1328,
+        "caption": "5"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/GUIDE-source-00-780x1696.png",
+        "w": 780,
+        "h": 1696
+      },
+      {
+        "file": "source/GUIDE-source-01-780x1266.jpg",
+        "w": 780,
+        "h": 1266
+      },
+      {
+        "file": "source/GUIDE-source-02-780x1062.jpg",
+        "w": 780,
+        "h": 1062
+      },
+      {
+        "file": "source/GUIDE-source-03-780x1131.jpg",
+        "w": 780,
+        "h": 1131
+      },
+      {
+        "file": "source/GUIDE-source-04-780x1385.jpg",
+        "w": 780,
+        "h": 1385
+      },
+      {
+        "file": "source/GUIDE-source-05-780x1301.jpg",
+        "w": 780,
+        "h": 1301
+      },
+      {
+        "file": "source/GUIDE-source-06-779x1375.jpg",
+        "w": 779,
+        "h": 1375
+      },
+      {
+        "file": "source/GUIDE-source-07-780x1032.jpg",
+        "w": 780,
+        "h": 1032
+      },
+      {
+        "file": "source/GUIDE-source-08-780x1477.jpg",
+        "w": 780,
+        "h": 1477
+      },
+      {
+        "file": "source/GUIDE-source-09-780x1424.jpg",
+        "w": 780,
+        "h": 1424
+      },
+      {
+        "file": "source/GUIDE-source-10-780x998.jpg",
+        "w": 780,
+        "h": 998
+      },
+      {
+        "file": "source/GUIDE-source-11-780x1125.jpg",
+        "w": 780,
+        "h": 1125
+      },
+      {
+        "file": "source/GUIDE-source-12-780x1111.jpg",
+        "w": 780,
+        "h": 1111
+      }
+    ]
+  },
+  "PSTV": {
+    "category": "throne",
+    "idx": 5,
+    "label": "Pro 안장형 스크류 드럼의자 PSTV",
+    "shop_url": "https://rudix.biz/shop_view/?idx=5",
+    "landing_url": "https://start.rudix.biz/thrones/pstv/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTV",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PSTV-thumb-00-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PSTV-thumb-01-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PSTV-thumb-02-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PSTV-detail-00-780x433.jpg",
+        "w": 780,
+        "h": 433,
+        "caption": "제품 사이즈 안내"
+      },
+      {
+        "file": "detail/PSTV-detail-01-780x688.jpg",
+        "w": 780,
+        "h": 688,
+        "caption": "제품 규격 사진"
+      },
+      {
+        "file": "detail/PSTV-detail-02-780x956.jpg",
+        "w": 780,
+        "h": 956,
+        "caption": "제품 상세 규격표"
+      },
+      {
+        "file": "detail/PSTV-detail-03-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/PSTV-detail-04-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      },
+      {
+        "file": "detail/PSTV-detail-05-860x1312.jpg",
+        "w": 860,
+        "h": 1312,
+        "caption": "드럼 의자 전체 사진"
+      },
+      {
+        "file": "detail/PSTV-detail-06-860x325.jpg",
+        "w": 860,
+        "h": 325,
+        "caption": "자세 중요성 문구"
+      },
+      {
+        "file": "detail/PSTV-detail-07-860x384.jpg",
+        "w": 860,
+        "h": 384,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PSTV-detail-08-860x296.jpg",
+        "w": 860,
+        "h": 296,
+        "caption": "브랜드 슬로건"
+      },
+      {
+        "file": "detail/PSTV-detail-09-860x557.jpg",
+        "w": 860,
+        "h": 557,
+        "caption": "제품 소개 문구"
+      },
+      {
+        "file": "detail/PSTV-detail-10-860x275.jpg",
+        "w": 860,
+        "h": 275,
+        "caption": "핵심 요소 안내"
+      },
+      {
+        "file": "detail/PSTV-detail-11-860x1121.jpg",
+        "w": 860,
+        "h": 1121,
+        "caption": "나사봉과 다리 구조"
+      },
+      {
+        "file": "detail/PSTV-detail-12-860x1613.jpg",
+        "w": 860,
+        "h": 1613,
+        "caption": "하부 구조 클로즈업"
+      },
+      {
+        "file": "detail/PSTV-detail-13-860x598.jpg",
+        "w": 860,
+        "h": 598,
+        "caption": "좌판과 측면 사진"
+      },
+      {
+        "file": "detail/PSTV-detail-14-860x484.jpg",
+        "w": 860,
+        "h": 484,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PSTV-detail-15-860x544.jpg",
+        "w": 860,
+        "h": 544,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PSTV-detail-16-860x1117.jpg",
+        "w": 860,
+        "h": 1117,
+        "caption": "유압식 나사식 비교표"
+      },
+      {
+        "file": "detail/PSTV-detail-17-860x1716.jpg",
+        "w": 860,
+        "h": 1716,
+        "caption": "브랜드 슬로건"
+      },
+      {
+        "file": "detail/PSTV-detail-18-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "타 라인업 안내"
+      },
+      {
+        "file": "detail/PSTV-detail-19-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "연관 제품 목록"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/PSTV-source-00-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/PSTV-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/PSTV-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/PSTV-source-03-860x10384.png",
+        "w": 860,
+        "h": 10384
+      },
+      {
+        "file": "source/PSTV-source-04-780x2322.jpg",
+        "w": 780,
+        "h": 2322
+      },
+      {
+        "file": "source/PSTV-source-05-860x1352.png",
+        "w": 860,
+        "h": 1352
+      }
+    ]
+  },
+  "PSTL": {
+    "category": "throne",
+    "idx": 12,
+    "label": "Pro 안장형 스크류 드럼의자 PSTL",
+    "shop_url": "https://rudix.biz/shop_view/?idx=12",
+    "landing_url": "https://start.rudix.biz/thrones/pstl/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/PSTL",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PSTL-thumb-00-1000x998.png",
+        "w": 1000,
+        "h": 998
+      },
+      {
+        "file": "thumbnail/PSTL-thumb-01-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PSTL-thumb-02-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PSTL-thumb-03-1000x1000.png",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PSTL-detail-00-860x286.jpg",
+        "w": 860,
+        "h": 286,
+        "caption": "다른 라인업 안내"
+      },
+      {
+        "file": "detail/PSTL-detail-01-860x1003.jpg",
+        "w": 860,
+        "h": 1003,
+        "caption": "제품 라인업 사진"
+      },
+      {
+        "file": "detail/PSTL-detail-02-860x1464.jpg",
+        "w": 860,
+        "h": 1464,
+        "caption": "5단계 검수 공정"
+      },
+      {
+        "file": "detail/PSTL-detail-03-860x1364.jpg",
+        "w": 860,
+        "h": 1364,
+        "caption": "타사 비교표"
+      },
+      {
+        "file": "detail/PSTL-detail-04-860x1311.jpg",
+        "w": 860,
+        "h": 1311,
+        "caption": "드럼의자 전체 사진"
+      },
+      {
+        "file": "detail/PSTL-detail-05-860x325.jpg",
+        "w": 860,
+        "h": 325,
+        "caption": "자세 중요성 강조"
+      },
+      {
+        "file": "detail/PSTL-detail-06-860x385.jpg",
+        "w": 860,
+        "h": 385,
+        "caption": "제품"
+      },
+      {
+        "file": "detail/PSTL-detail-07-860x296.jpg",
+        "w": 860,
+        "h": 296,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PSTL-detail-08-860x557.jpg",
+        "w": 860,
+        "h": 557,
+        "caption": "브랜드 슬로건"
+      },
+      {
+        "file": "detail/PSTL-detail-09-860x275.jpg",
+        "w": 860,
+        "h": 275,
+        "caption": "핵심 요소 소개"
+      },
+      {
+        "file": "detail/PSTL-detail-10-860x1121.jpg",
+        "w": 860,
+        "h": 1121,
+        "caption": "나사봉과 삼각다리"
+      },
+      {
+        "file": "detail/PSTL-detail-11-860x2207.jpg",
+        "w": 860,
+        "h": 2207,
+        "caption": "의자 세부 구조"
+      },
+      {
+        "file": "detail/PSTL-detail-12-860x449.jpg",
+        "w": 860,
+        "h": 449,
+        "caption": "제품 소구 문구"
+      },
+      {
+        "file": "detail/PSTL-detail-13-860x583.jpg",
+        "w": 860,
+        "h": 583,
+        "caption": "비교 안내 문구"
+      },
+      {
+        "file": "detail/PSTL-detail-14-860x1117.jpg",
+        "w": 860,
+        "h": 1117,
+        "caption": "방식"
+      },
+      {
+        "file": "detail/PSTL-detail-15-860x1716.jpg",
+        "w": 860,
+        "h": 1716,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/PSTL-detail-16-860x478.jpg",
+        "w": 860,
+        "h": 478,
+        "caption": "제품 사이즈 안내"
+      },
+      {
+        "file": "detail/PSTL-detail-17-860x760.jpg",
+        "w": 860,
+        "h": 760,
+        "caption": "제품 치수 표시"
+      },
+      {
+        "file": "detail/PSTL-detail-18-860x1052.jpg",
+        "w": 860,
+        "h": 1052,
+        "caption": "제품 상세 규격표"
+      }
+    ],
+    "source": [
+      {
+        "file": "source/PSTL-source-00-860x1870.png",
+        "w": 860,
+        "h": 1870
+      },
+      {
+        "file": "source/PSTL-source-01-860x1745.png",
+        "w": 860,
+        "h": 1745
+      },
+      {
+        "file": "source/PSTL-source-02-860x292.png",
+        "w": 860,
+        "h": 292
+      },
+      {
+        "file": "source/PSTL-source-03-860x10384.png",
+        "w": 860,
+        "h": 10384
+      },
+      {
+        "file": "source/PSTL-source-04-860x2561.png",
+        "w": 860,
+        "h": 2561
+      },
+      {
+        "file": "source/PSTL-source-05-860x1352.jpg",
+        "w": 860,
+        "h": 1352
+      }
+    ]
   },
   "MRNL": {
     "category": "throne",
+    "idx": 15,
+    "label": "Master 원형 유압 드럼의자 MRNL",
+    "shop_url": "https://rudix.biz/shop_view/?idx=15",
+    "landing_url": "https://start.rudix.biz/thrones/mrnl/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNL",
     "thumbnail": [
       {
         "file": "thumbnail/MRNL-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
@@ -568,16 +1811,27 @@
         "h": 518,
         "caption": "미상"
       }
+    ],
+    "source": [
+      {
+        "file": "source/MRNL-source-00-860x24708.jpg",
+        "w": 860,
+        "h": 24708
+      }
     ]
   },
   "MRNV": {
     "category": "throne",
+    "idx": 16,
+    "label": "Master 원형 유압 드럼의자 MRNV",
+    "shop_url": "https://rudix.biz/shop_view/?idx=16",
+    "landing_url": "https://start.rudix.biz/thrones/mrnv/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRNV",
     "thumbnail": [
       {
         "file": "thumbnail/MRNV-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
@@ -773,16 +2027,27 @@
         "h": 518,
         "caption": "미상"
       }
+    ],
+    "source": [
+      {
+        "file": "source/MRNV-source-00-860x24708.jpg",
+        "w": 860,
+        "h": 24708
+      }
     ]
   },
   "MRTL": {
     "category": "throne",
+    "idx": 17,
+    "label": "Master 원형 스크류 드럼의자 MRTL",
+    "shop_url": "https://rudix.biz/shop_view/?idx=17",
+    "landing_url": "https://start.rudix.biz/thrones/mrtl/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRTL",
     "thumbnail": [
       {
         "file": "thumbnail/MRTL-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
@@ -960,16 +2225,27 @@
         "h": 1349,
         "caption": "전체 라인업 사진"
       }
+    ],
+    "source": [
+      {
+        "file": "source/MRTL-source-00-860x23406.jpg",
+        "w": 860,
+        "h": 23406
+      }
     ]
   },
   "MRTV": {
     "category": "throne",
+    "idx": 18,
+    "label": "Master 원형 스크류 드럼의자 MRTV",
+    "shop_url": "https://rudix.biz/shop_view/?idx=18",
+    "landing_url": "https://start.rudix.biz/thrones/mrtv/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MRTV",
     "thumbnail": [
       {
         "file": "thumbnail/MRTV-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
@@ -1159,215 +2435,27 @@
         "h": 559,
         "caption": "로고 누락 유의사항"
       }
-    ]
-  },
-  "MSNL": {
-    "category": "throne",
-    "thumbnail": [
-      {
-        "file": "thumbnail/MSNL-thumb-00-1000x1000.jpg",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      }
     ],
-    "detail": [
+    "source": [
       {
-        "file": "detail/MSNL-detail-00-860x1331.jpg",
+        "file": "source/MRTV-source-00-860x24446.jpg",
         "w": 860,
-        "h": 1331,
-        "caption": "드럼 의자 정면"
-      },
-      {
-        "file": "detail/MSNL-detail-01-860x510.jpg",
-        "w": 860,
-        "h": 510,
-        "caption": "브랜드 슬로건"
-      },
-      {
-        "file": "detail/MSNL-detail-02-860x1295.jpg",
-        "w": 860,
-        "h": 1295,
-        "caption": "브랜드 제품 모음"
-      },
-      {
-        "file": "detail/MSNL-detail-03-860x405.jpg",
-        "w": 860,
-        "h": 405,
-        "caption": "브랜드 철학"
-      },
-      {
-        "file": "detail/MSNL-detail-04-860x1518.jpg",
-        "w": 860,
-        "h": 1518,
-        "caption": "5단계 검수 공정"
-      },
-      {
-        "file": "detail/MSNL-detail-05-860x1276.jpg",
-        "w": 860,
-        "h": 1276,
-        "caption": "드럼 의자 연출 컷"
-      },
-      {
-        "file": "detail/MSNL-detail-06-860x1320.jpg",
-        "w": 860,
-        "h": 1320,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-07-860x269.jpg",
-        "w": 860,
-        "h": 269,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-08-860x347.jpg",
-        "w": 860,
-        "h": 347,
-        "caption": "언론 주목 문구"
-      },
-      {
-        "file": "detail/MSNL-detail-09-860x1059.jpg",
-        "w": 860,
-        "h": 1059,
-        "caption": "언론 보도 내역"
-      },
-      {
-        "file": "detail/MSNL-detail-10-860x2178.jpg",
-        "w": 860,
-        "h": 2178,
-        "caption": "MSNL 특징 요약"
-      },
-      {
-        "file": "detail/MSNL-detail-11-860x320.jpg",
-        "w": 860,
-        "h": 320,
-        "caption": "포인트 01 문구"
-      },
-      {
-        "file": "detail/MSNL-detail-12-860x907.jpg",
-        "w": 860,
-        "h": 907,
-        "caption": "하부 다리 구조"
-      },
-      {
-        "file": "detail/MSNL-detail-13-860x597.jpg",
-        "w": 860,
-        "h": 597,
-        "caption": "고무 발판 클"
-      },
-      {
-        "file": "detail/MSNL-detail-14-860x436.jpg",
-        "w": 860,
-        "h": 436,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-15-860x1536.jpg",
-        "w": 860,
-        "h": 1536,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-16-860x303.jpg",
-        "w": 860,
-        "h": 303,
-        "caption": "섹션 3 인덱스"
-      },
-      {
-        "file": "detail/MSNL-detail-17-860x1048.jpg",
-        "w": 860,
-        "h": 1048,
-        "caption": "안장형 시트 착석 모습"
-      },
-      {
-        "file": "detail/MSNL-detail-18-860x267.jpg",
-        "w": 860,
-        "h": 267,
-        "caption": "안장형 시트 장점 문구"
-      },
-      {
-        "file": "detail/MSNL-detail-19-860x416.jpg",
-        "w": 860,
-        "h": 416,
-        "caption": "섹션 4 타이틀"
-      },
-      {
-        "file": "detail/MSNL-detail-20-860x1332.jpg",
-        "w": 860,
-        "h": 1332,
-        "caption": "가죽 시트 전체 모습"
-      },
-      {
-        "file": "detail/MSNL-detail-21-860x401.jpg",
-        "w": 860,
-        "h": 401,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-22-860x869.jpg",
-        "w": 860,
-        "h": 869,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-23-860x296.jpg",
-        "w": 860,
-        "h": 296,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/MSNL-detail-24-860x430.jpg",
-        "w": 860,
-        "h": 430,
-        "caption": "제품상세 타이틀"
-      },
-      {
-        "file": "detail/MSNL-detail-25-860x805.jpg",
-        "w": 860,
-        "h": 805,
-        "caption": "제품 전체 규격"
-      },
-      {
-        "file": "detail/MSNL-detail-26-860x672.jpg",
-        "w": 860,
-        "h": 672,
-        "caption": "제품 사양표"
-      },
-      {
-        "file": "detail/MSNL-detail-27-860x1154.jpg",
-        "w": 860,
-        "h": 1154,
-        "caption": "제품 라인업 단체컷"
-      },
-      {
-        "file": "detail/MSNL-detail-28-860x268.jpg",
-        "w": 860,
-        "h": 268,
-        "caption": "브랜드 로고"
-      },
-      {
-        "file": "detail/MSNL-detail-29-860x354.jpg",
-        "w": 860,
-        "h": 354,
-        "caption": "초도 발주 공지"
-      },
-      {
-        "file": "detail/MSNL-detail-30-860x518.jpg",
-        "w": 860,
-        "h": 518,
-        "caption": "로고 누락"
+        "h": 24446
       }
     ]
   },
   "MSNV": {
     "category": "throne",
+    "idx": 19,
+    "label": "Master 안장형 유압 드럼의자 MSNV",
+    "shop_url": "https://rudix.biz/shop_view/?idx=19",
+    "landing_url": "https://start.rudix.biz/thrones/msnv/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MSNV",
     "thumbnail": [
       {
         "file": "thumbnail/MSNV-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
@@ -1557,295 +2645,222 @@
         "h": 518,
         "caption": "로"
       }
+    ],
+    "source": [
+      {
+        "file": "source/MSNV-source-00-860x24708.jpg",
+        "w": 860,
+        "h": 24708
+      }
     ]
   },
-  "PSTL": {
+  "MSNL": {
     "category": "throne",
+    "idx": 20,
+    "label": "Master 안장형 유압 드럼의자 MSNL",
+    "shop_url": "https://rudix.biz/shop_view/?idx=20",
+    "landing_url": "https://start.rudix.biz/thrones/msnl/",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/throne/MSNL",
     "thumbnail": [
       {
-        "file": "thumbnail/PSTL-thumb-00-1000x998.png",
+        "file": "thumbnail/MSNL-thumb-00-1000x1000.jpg",
         "w": 1000,
-        "h": 998,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PSTL-thumb-01-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PSTL-thumb-02-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PSTL-thumb-03-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 1000
       }
     ],
     "detail": [
       {
-        "file": "detail/PSTL-detail-00-860x286.jpg",
+        "file": "detail/MSNL-detail-00-860x1331.jpg",
         "w": 860,
-        "h": 286,
-        "caption": "다른 라인업 안내"
+        "h": 1331,
+        "caption": "드럼 의자 정면"
       },
       {
-        "file": "detail/PSTL-detail-01-860x1003.jpg",
+        "file": "detail/MSNL-detail-01-860x510.jpg",
         "w": 860,
-        "h": 1003,
-        "caption": "제품 라인업 사진"
+        "h": 510,
+        "caption": "브랜드 슬로건"
       },
       {
-        "file": "detail/PSTL-detail-02-860x1464.jpg",
+        "file": "detail/MSNL-detail-02-860x1295.jpg",
         "w": 860,
-        "h": 1464,
+        "h": 1295,
+        "caption": "브랜드 제품 모음"
+      },
+      {
+        "file": "detail/MSNL-detail-03-860x405.jpg",
+        "w": 860,
+        "h": 405,
+        "caption": "브랜드 철학"
+      },
+      {
+        "file": "detail/MSNL-detail-04-860x1518.jpg",
+        "w": 860,
+        "h": 1518,
         "caption": "5단계 검수 공정"
       },
       {
-        "file": "detail/PSTL-detail-03-860x1364.jpg",
+        "file": "detail/MSNL-detail-05-860x1276.jpg",
         "w": 860,
-        "h": 1364,
-        "caption": "타사 비교표"
+        "h": 1276,
+        "caption": "드럼 의자 연출 컷"
       },
       {
-        "file": "detail/PSTL-detail-04-860x1311.jpg",
+        "file": "detail/MSNL-detail-06-860x1320.jpg",
         "w": 860,
-        "h": 1311,
-        "caption": "드럼의자 전체 사진"
+        "h": 1320,
+        "caption": "미상"
       },
       {
-        "file": "detail/PSTL-detail-05-860x325.jpg",
+        "file": "detail/MSNL-detail-07-860x269.jpg",
         "w": 860,
-        "h": 325,
-        "caption": "자세 중요성 강조"
+        "h": 269,
+        "caption": "미상"
       },
       {
-        "file": "detail/PSTL-detail-06-860x385.jpg",
+        "file": "detail/MSNL-detail-08-860x347.jpg",
         "w": 860,
-        "h": 385,
-        "caption": "제품"
+        "h": 347,
+        "caption": "언론 주목 문구"
       },
       {
-        "file": "detail/PSTL-detail-07-860x296.jpg",
+        "file": "detail/MSNL-detail-09-860x1059.jpg",
+        "w": 860,
+        "h": 1059,
+        "caption": "언론 보도 내역"
+      },
+      {
+        "file": "detail/MSNL-detail-10-860x2178.jpg",
+        "w": 860,
+        "h": 2178,
+        "caption": "MSNL 특징 요약"
+      },
+      {
+        "file": "detail/MSNL-detail-11-860x320.jpg",
+        "w": 860,
+        "h": 320,
+        "caption": "포인트 01 문구"
+      },
+      {
+        "file": "detail/MSNL-detail-12-860x907.jpg",
+        "w": 860,
+        "h": 907,
+        "caption": "하부 다리 구조"
+      },
+      {
+        "file": "detail/MSNL-detail-13-860x597.jpg",
+        "w": 860,
+        "h": 597,
+        "caption": "고무 발판 클"
+      },
+      {
+        "file": "detail/MSNL-detail-14-860x436.jpg",
+        "w": 860,
+        "h": 436,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/MSNL-detail-15-860x1536.jpg",
+        "w": 860,
+        "h": 1536,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/MSNL-detail-16-860x303.jpg",
+        "w": 860,
+        "h": 303,
+        "caption": "섹션 3 인덱스"
+      },
+      {
+        "file": "detail/MSNL-detail-17-860x1048.jpg",
+        "w": 860,
+        "h": 1048,
+        "caption": "안장형 시트 착석 모습"
+      },
+      {
+        "file": "detail/MSNL-detail-18-860x267.jpg",
+        "w": 860,
+        "h": 267,
+        "caption": "안장형 시트 장점 문구"
+      },
+      {
+        "file": "detail/MSNL-detail-19-860x416.jpg",
+        "w": 860,
+        "h": 416,
+        "caption": "섹션 4 타이틀"
+      },
+      {
+        "file": "detail/MSNL-detail-20-860x1332.jpg",
+        "w": 860,
+        "h": 1332,
+        "caption": "가죽 시트 전체 모습"
+      },
+      {
+        "file": "detail/MSNL-detail-21-860x401.jpg",
+        "w": 860,
+        "h": 401,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/MSNL-detail-22-860x869.jpg",
+        "w": 860,
+        "h": 869,
+        "caption": "미상"
+      },
+      {
+        "file": "detail/MSNL-detail-23-860x296.jpg",
         "w": 860,
         "h": 296,
         "caption": "미상"
       },
       {
-        "file": "detail/PSTL-detail-08-860x557.jpg",
+        "file": "detail/MSNL-detail-24-860x430.jpg",
         "w": 860,
-        "h": 557,
-        "caption": "브랜드 슬로건"
+        "h": 430,
+        "caption": "제품상세 타이틀"
       },
       {
-        "file": "detail/PSTL-detail-09-860x275.jpg",
+        "file": "detail/MSNL-detail-25-860x805.jpg",
         "w": 860,
-        "h": 275,
-        "caption": "핵심 요소 소개"
+        "h": 805,
+        "caption": "제품 전체 규격"
       },
       {
-        "file": "detail/PSTL-detail-10-860x1121.jpg",
+        "file": "detail/MSNL-detail-26-860x672.jpg",
         "w": 860,
-        "h": 1121,
-        "caption": "나사봉과 삼각다리"
+        "h": 672,
+        "caption": "제품 사양표"
       },
       {
-        "file": "detail/PSTL-detail-11-860x2207.jpg",
+        "file": "detail/MSNL-detail-27-860x1154.jpg",
         "w": 860,
-        "h": 2207,
-        "caption": "의자 세부 구조"
+        "h": 1154,
+        "caption": "제품 라인업 단체컷"
       },
       {
-        "file": "detail/PSTL-detail-12-860x449.jpg",
+        "file": "detail/MSNL-detail-28-860x268.jpg",
         "w": 860,
-        "h": 449,
-        "caption": "제품 소구 문구"
+        "h": 268,
+        "caption": "브랜드 로고"
       },
       {
-        "file": "detail/PSTL-detail-13-860x583.jpg",
+        "file": "detail/MSNL-detail-29-860x354.jpg",
         "w": 860,
-        "h": 583,
-        "caption": "비교 안내 문구"
+        "h": 354,
+        "caption": "초도 발주 공지"
       },
       {
-        "file": "detail/PSTL-detail-14-860x1117.jpg",
+        "file": "detail/MSNL-detail-30-860x518.jpg",
         "w": 860,
-        "h": 1117,
-        "caption": "방식"
-      },
-      {
-        "file": "detail/PSTL-detail-15-860x1716.jpg",
-        "w": 860,
-        "h": 1716,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/PSTL-detail-16-860x478.jpg",
-        "w": 860,
-        "h": 478,
-        "caption": "제품 사이즈 안내"
-      },
-      {
-        "file": "detail/PSTL-detail-17-860x760.jpg",
-        "w": 860,
-        "h": 760,
-        "caption": "제품 치수 표시"
-      },
-      {
-        "file": "detail/PSTL-detail-18-860x1052.jpg",
-        "w": 860,
-        "h": 1052,
-        "caption": "제품 상세 규격표"
-      }
-    ]
-  },
-  "PSTV": {
-    "category": "throne",
-    "thumbnail": [
-      {
-        "file": "thumbnail/PSTV-thumb-00-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PSTV-thumb-01-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
-      },
-      {
-        "file": "thumbnail/PSTV-thumb-02-1000x1000.png",
-        "w": 1000,
-        "h": 1000,
-        "caption": ""
+        "h": 518,
+        "caption": "로고 누락"
       }
     ],
-    "detail": [
+    "source": [
       {
-        "file": "detail/PSTV-detail-00-780x433.jpg",
-        "w": 780,
-        "h": 433,
-        "caption": "제품 사이즈 안내"
-      },
-      {
-        "file": "detail/PSTV-detail-01-780x688.jpg",
-        "w": 780,
-        "h": 688,
-        "caption": "제품 규격 사진"
-      },
-      {
-        "file": "detail/PSTV-detail-02-780x956.jpg",
-        "w": 780,
-        "h": 956,
-        "caption": "제품 상세 규격표"
-      },
-      {
-        "file": "detail/PSTV-detail-03-860x1464.jpg",
+        "file": "source/MSNL-source-00-860x24708.jpg",
         "w": 860,
-        "h": 1464,
-        "caption": "5단계 검수 공정"
-      },
-      {
-        "file": "detail/PSTV-detail-04-860x1364.jpg",
-        "w": 860,
-        "h": 1364,
-        "caption": "타사 비교표"
-      },
-      {
-        "file": "detail/PSTV-detail-05-860x1312.jpg",
-        "w": 860,
-        "h": 1312,
-        "caption": "드럼 의자 전체 사진"
-      },
-      {
-        "file": "detail/PSTV-detail-06-860x325.jpg",
-        "w": 860,
-        "h": 325,
-        "caption": "자세 중요성 문구"
-      },
-      {
-        "file": "detail/PSTV-detail-07-860x384.jpg",
-        "w": 860,
-        "h": 384,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/PSTV-detail-08-860x296.jpg",
-        "w": 860,
-        "h": 296,
-        "caption": "브랜드 슬로건"
-      },
-      {
-        "file": "detail/PSTV-detail-09-860x557.jpg",
-        "w": 860,
-        "h": 557,
-        "caption": "제품 소개 문구"
-      },
-      {
-        "file": "detail/PSTV-detail-10-860x275.jpg",
-        "w": 860,
-        "h": 275,
-        "caption": "핵심 요소 안내"
-      },
-      {
-        "file": "detail/PSTV-detail-11-860x1121.jpg",
-        "w": 860,
-        "h": 1121,
-        "caption": "나사봉과 다리 구조"
-      },
-      {
-        "file": "detail/PSTV-detail-12-860x1613.jpg",
-        "w": 860,
-        "h": 1613,
-        "caption": "하부 구조 클로즈업"
-      },
-      {
-        "file": "detail/PSTV-detail-13-860x598.jpg",
-        "w": 860,
-        "h": 598,
-        "caption": "좌판과 측면 사진"
-      },
-      {
-        "file": "detail/PSTV-detail-14-860x484.jpg",
-        "w": 860,
-        "h": 484,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/PSTV-detail-15-860x544.jpg",
-        "w": 860,
-        "h": 544,
-        "caption": "미상"
-      },
-      {
-        "file": "detail/PSTV-detail-16-860x1117.jpg",
-        "w": 860,
-        "h": 1117,
-        "caption": "유압식 나사식 비교표"
-      },
-      {
-        "file": "detail/PSTV-detail-17-860x1716.jpg",
-        "w": 860,
-        "h": 1716,
-        "caption": "브랜드 슬로건"
-      },
-      {
-        "file": "detail/PSTV-detail-18-860x286.jpg",
-        "w": 860,
-        "h": 286,
-        "caption": "타 라인업 안내"
-      },
-      {
-        "file": "detail/PSTV-detail-19-860x1003.jpg",
-        "w": 860,
-        "h": 1003,
-        "caption": "연관 제품 목록"
+        "h": 24708
       }
     ]
   }

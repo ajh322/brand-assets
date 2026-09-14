@@ -1,10 +1,11 @@
-# 드럼스틱 5B — `5B`
+# 히코리 드럼스틱 5B — `5B`
 
-자사몰 idx=10 · <https://rudix.biz/shop_view/?idx=10>
+- 자사몰 <https://rudix.biz/shop_view/?idx=10>
+- 랜딩 <https://start.rudix.biz/sticks/5b/>  (광고 착지 전용, noindex)
 
-썸네일 8장 / 상세 0장
+제품 사진 8장 · 상세 조각 2장 · 상세 원본 3장
 
-링크 접두사: `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5B/`
+링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/5B/`
 
 ## thumbnail — 제품 사진
 
@@ -20,3 +21,23 @@
 | `thumbnail/5B-thumb-05-1000x1000.png` | 1000x1000 |
 | `thumbnail/5B-thumb-06-1000x1000.png` | 1000x1000 |
 | `thumbnail/5B-thumb-07-1000x1000.png` | 1000x1000 |
+
+## detail — 상세페이지 조각
+
+원본을 여백 기준으로 자른 것. 헤드라인과 사진과 설명이 한 세트로 들어
+있어 그대로 본문에 넣을 수 있다. 캡션은 자동 판독이라 참고용이다.
+
+| 파일 | 해상도 | 내용 |
+|---|---|---|
+| `detail/5B-detail-00-860x1658.jpg` | 860x1658 | 5단계 검수 공정 |
+| `detail/5B-detail-01-860x1364.jpg` | 860x1364 | 타사 비교표 |
+
+## source — 상세 원본
+
+자르기 전 원본. 세로가 길어 본문에 바로 넣을 수 없다. 재가공용이다.
+
+| 파일 | 해상도 |
+|---|---|
+| `source/5B-source-00-860x1681.png` | 860x1681 |
+| `source/5B-source-01-860x1745.png` | 860x1745 |
+| `source/5B-source-02-860x292.png` | 860x292 |
