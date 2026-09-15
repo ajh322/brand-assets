@@ -1,5 +1,6 @@
 {
   "5A": {
+    "brand": "rudix",
     "category": "stick",
     "idx": 13,
     "label": "히코리 드럼스틱 5A",
@@ -167,6 +168,7 @@
     ]
   },
   "5B": {
+    "brand": "rudix",
     "category": "stick",
     "idx": 10,
     "label": "히코리 드럼스틱 5B",
@@ -328,6 +330,7 @@
     ]
   },
   "7A": {
+    "brand": "rudix",
     "category": "stick",
     "idx": 11,
     "label": "히코리 드럼스틱 7A",
@@ -394,101 +397,102 @@
         "file": "detail/7A-detail-02-860x1658.jpg",
         "w": 860,
         "h": 1658,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-03-860x1364.jpg",
         "w": 860,
         "h": 1364,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-04-860x1295.jpg",
         "w": 860,
         "h": 1295,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-05-860x415.jpg",
         "w": 860,
         "h": 415,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-06-860x1319.jpg",
         "w": 860,
         "h": 1319,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-07-860x271.jpg",
         "w": 860,
         "h": 271,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-08-860x594.jpg",
         "w": 860,
         "h": 594,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-09-860x659.jpg",
         "w": 860,
         "h": 659,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-10-860x1246.jpg",
         "w": 860,
         "h": 1246,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-11-860x953.jpg",
         "w": 860,
         "h": 953,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-12-860x960.jpg",
         "w": 860,
         "h": 960,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-13-860x1643.jpg",
         "w": 860,
         "h": 1643,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-14-860x1039.jpg",
         "w": 860,
         "h": 1039,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-15-860x425.jpg",
         "w": 860,
         "h": 425,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-16-860x799.jpg",
         "w": 860,
         "h": 799,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/7A-detail-17-860x766.jpg",
         "w": 860,
         "h": 766,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
   "CASE": {
+    "brand": "rudix",
     "category": "stick",
     "idx": 7,
     "label": "드럼스틱 홀더 케이스 가방",
@@ -641,6 +645,7 @@
     ]
   },
   "PAD8": {
+    "brand": "rudix",
     "category": "pad",
     "idx": 8,
     "label": "Master 8인치 연습용 드럼패드 세트",
@@ -921,6 +926,7 @@
     ]
   },
   "PAD12": {
+    "brand": "rudix",
     "category": "pad",
     "idx": 6,
     "label": "Pro 12인치 연습용 드럼패드 세트",
@@ -1101,6 +1107,7 @@
     ]
   },
   "GUIDE": {
+    "brand": "rudix",
     "category": "pad",
     "idx": 14,
     "label": "루디먼트 가이드 에디션",
@@ -1243,6 +1250,7 @@
     ]
   },
   "PSTV": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 5,
     "label": "Pro 안장형 스크류 드럼의자 PSTV",
@@ -1391,6 +1399,7 @@
     ]
   },
   "PSTL": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 12,
     "label": "Pro 안장형 스크류 드럼의자 PSTL",
@@ -1538,6 +1547,7 @@
     ]
   },
   "MRNL": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 15,
     "label": "Master 원형 유압 드럼의자 MRNL",
@@ -1748,6 +1758,7 @@
     ]
   },
   "MRNV": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 16,
     "label": "Master 원형 유압 드럼의자 MRNV",
@@ -1958,6 +1969,7 @@
     ]
   },
   "MRTL": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 17,
     "label": "Master 원형 스크류 드럼의자 MRTL",
@@ -2150,6 +2162,7 @@
     ]
   },
   "MRTV": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 18,
     "label": "Master 원형 스크류 드럼의자 MRTV",
@@ -2354,6 +2367,7 @@
     ]
   },
   "MSNV": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 19,
     "label": "Master 안장형 유압 드럼의자 MSNV",
@@ -2558,6 +2572,7 @@
     ]
   },
   "MSNL": {
+    "brand": "rudix",
     "category": "throne",
     "idx": 20,
     "label": "Master 안장형 유압 드럼의자 MSNL",
@@ -2758,6 +2773,1503 @@
         "w": 860,
         "h": 518,
         "caption": "로고 누락"
+      }
+    ]
+  },
+  "BUDDYCANE": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 3,
+    "label": "버디케인 카본 4발 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=3",
+    "landing_url": "",
+    "factory_code": "",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/BUDDYCANE",
+    "thumbnail": [
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-08-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-09-860x553.jpg",
+        "w": 860,
+        "h": 553
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-10-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-11-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/BUDDYCANE-thumb-12-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/BUDDYCANE-detail-00-860x2374.jpg",
+        "w": 860,
+        "h": 2374,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-01-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-02a-780x283.jpg",
+        "w": 780,
+        "h": 283,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-02b-780x2101.jpg",
+        "w": 780,
+        "h": 2101,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-02c-780x926.jpg",
+        "w": 780,
+        "h": 926,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-02d-780x476.jpg",
+        "w": 780,
+        "h": 476,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-04-860x1503.jpg",
+        "w": 860,
+        "h": 1503,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-05-860x1696.jpg",
+        "w": 860,
+        "h": 1696,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-06-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-07-860x3034.jpg",
+        "w": 860,
+        "h": 3034,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-08a-860x277.jpg",
+        "w": 860,
+        "h": 277,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-08b-860x2065.jpg",
+        "w": 860,
+        "h": 2065,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-08c-860x305.jpg",
+        "w": 860,
+        "h": 305,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-08d-860x1222.jpg",
+        "w": 860,
+        "h": 1222,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-08e-860x800.jpg",
+        "w": 860,
+        "h": 800,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-09-860x2464.jpg",
+        "w": 860,
+        "h": 2464,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-10-860x2249.jpg",
+        "w": 860,
+        "h": 2249,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-11-860x2890.jpg",
+        "w": 860,
+        "h": 2890,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-12-860x2992.jpg",
+        "w": 860,
+        "h": 2992,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-13-860x1779.jpg",
+        "w": 860,
+        "h": 1779,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-14-860x1478.jpg",
+        "w": 860,
+        "h": 1478,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-15-860x1692.jpg",
+        "w": 860,
+        "h": 1692,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-16a-860x726.jpg",
+        "w": 860,
+        "h": 726,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-16b-860x1172.jpg",
+        "w": 860,
+        "h": 1172,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-16c-860x265.jpg",
+        "w": 860,
+        "h": 265,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-16d-860x588.jpg",
+        "w": 860,
+        "h": 588,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-16e-860x935.jpg",
+        "w": 860,
+        "h": 935,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-17-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/BUDDYCANE-detail-18-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
+      }
+    ]
+  },
+  "GLOVE": {
+    "brand": "shl",
+    "category": "glove",
+    "idx": 4,
+    "label": "치매장갑",
+    "shop_url": "https://shl.ltd/shop_view/?idx=4",
+    "landing_url": "",
+    "factory_code": "",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/glove/GLOVE",
+    "thumbnail": [
+      {
+        "file": "thumbnail/GLOVE-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/GLOVE-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/GLOVE-detail-00a-860x1072.jpg",
+        "w": 860,
+        "h": 1072,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00b-860x508.jpg",
+        "w": 860,
+        "h": 508,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00c-860x450.jpg",
+        "w": 860,
+        "h": 450,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00d-860x1487.jpg",
+        "w": 860,
+        "h": 1487,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00e-860x717.jpg",
+        "w": 860,
+        "h": 717,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00f-860x416.jpg",
+        "w": 860,
+        "h": 416,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00g-860x1489.jpg",
+        "w": 860,
+        "h": 1489,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00h-860x914.jpg",
+        "w": 860,
+        "h": 914,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00i-860x279.jpg",
+        "w": 860,
+        "h": 279,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00j-860x393.jpg",
+        "w": 860,
+        "h": 393,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00k-860x1802.jpg",
+        "w": 860,
+        "h": 1802,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00l-860x1112.jpg",
+        "w": 860,
+        "h": 1112,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00m-860x386.jpg",
+        "w": 860,
+        "h": 386,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00n-860x615.jpg",
+        "w": 860,
+        "h": 615,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00o-860x938.jpg",
+        "w": 860,
+        "h": 938,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00p-860x874.jpg",
+        "w": 860,
+        "h": 874,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00q-860x580.jpg",
+        "w": 860,
+        "h": 580,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00r-860x414.jpg",
+        "w": 860,
+        "h": 414,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00s-860x1099.jpg",
+        "w": 860,
+        "h": 1099,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00t-860x1193.jpg",
+        "w": 860,
+        "h": 1193,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00u-860x434.jpg",
+        "w": 860,
+        "h": 434,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00v-860x1107.jpg",
+        "w": 860,
+        "h": 1107,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-00w-860x485.jpg",
+        "w": 860,
+        "h": 485,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01a-860x467.jpg",
+        "w": 860,
+        "h": 467,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01b-860x1963.jpg",
+        "w": 860,
+        "h": 1963,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01c-860x803.jpg",
+        "w": 860,
+        "h": 803,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01d-860x442.jpg",
+        "w": 860,
+        "h": 442,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01e-860x276.jpg",
+        "w": 860,
+        "h": 276,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01f-860x617.jpg",
+        "w": 860,
+        "h": 617,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01g-860x268.jpg",
+        "w": 860,
+        "h": 268,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01h-860x820.jpg",
+        "w": 860,
+        "h": 820,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01i-860x874.jpg",
+        "w": 860,
+        "h": 874,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01j-860x590.jpg",
+        "w": 860,
+        "h": 590,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01k-860x285.jpg",
+        "w": 860,
+        "h": 285,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01l-860x924.jpg",
+        "w": 860,
+        "h": 924,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01m-860x714.jpg",
+        "w": 860,
+        "h": 714,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01n-860x331.jpg",
+        "w": 860,
+        "h": 331,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01o-860x284.jpg",
+        "w": 860,
+        "h": 284,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01p-860x403.jpg",
+        "w": 860,
+        "h": 403,
+        "caption": ""
+      },
+      {
+        "file": "detail/GLOVE-detail-01q-860x1202.jpg",
+        "w": 860,
+        "h": 1202,
+        "caption": ""
+      }
+    ]
+  },
+  "FOLD": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 5,
+    "label": "접이식 4단 폴딩 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=5",
+    "landing_url": "",
+    "factory_code": "GB803",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/FOLD",
+    "thumbnail": [
+      {
+        "file": "thumbnail/FOLD-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-08-860x974.jpg",
+        "w": 860,
+        "h": 974
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-09-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-10-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/FOLD-thumb-11-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/FOLD-detail-00-860x1976.jpg",
+        "w": 860,
+        "h": 1976,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-01-860x1732.jpg",
+        "w": 860,
+        "h": 1732,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-02-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-04-860x1463.jpg",
+        "w": 860,
+        "h": 1463,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-05-860x1503.jpg",
+        "w": 860,
+        "h": 1503,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-06-860x1663.jpg",
+        "w": 860,
+        "h": 1663,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-07-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08a-860x365.jpg",
+        "w": 860,
+        "h": 365,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08b-860x855.jpg",
+        "w": 860,
+        "h": 855,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08c-860x564.jpg",
+        "w": 860,
+        "h": 564,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08d-860x762.jpg",
+        "w": 860,
+        "h": 762,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08e-860x688.jpg",
+        "w": 860,
+        "h": 688,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08f-860x608.jpg",
+        "w": 860,
+        "h": 608,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08g-860x538.jpg",
+        "w": 860,
+        "h": 538,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08h-860x509.jpg",
+        "w": 860,
+        "h": 509,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08i-860x297.jpg",
+        "w": 860,
+        "h": 297,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08j-860x1255.jpg",
+        "w": 860,
+        "h": 1255,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-08k-860x842.jpg",
+        "w": 860,
+        "h": 842,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-09-860x2736.jpg",
+        "w": 860,
+        "h": 2736,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-10-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/FOLD-detail-11-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
+      }
+    ]
+  },
+  "OFFSET": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 6,
+    "label": "오프셋 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=6",
+    "landing_url": "",
+    "factory_code": "GB-841",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/OFFSET",
+    "thumbnail": [
+      {
+        "file": "thumbnail/OFFSET-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-08-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-09-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/OFFSET-thumb-10-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/OFFSET-detail-00-860x1782.jpg",
+        "w": 860,
+        "h": 1782,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-01-860x1732.jpg",
+        "w": 860,
+        "h": 1732,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-02-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-04-860x1111.jpg",
+        "w": 860,
+        "h": 1111,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-05-860x1503.jpg",
+        "w": 860,
+        "h": 1503,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-06-860x1696.jpg",
+        "w": 860,
+        "h": 1696,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-07-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-08-860x1245.jpg",
+        "w": 860,
+        "h": 1245,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09a-860x444.jpg",
+        "w": 860,
+        "h": 444,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09b-860x349.jpg",
+        "w": 860,
+        "h": 349,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09c-860x797.jpg",
+        "w": 860,
+        "h": 797,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09d-860x616.jpg",
+        "w": 860,
+        "h": 616,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09e-860x764.jpg",
+        "w": 860,
+        "h": 764,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09f-860x497.jpg",
+        "w": 860,
+        "h": 497,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09g-860x850.jpg",
+        "w": 860,
+        "h": 850,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09h-860x1260.jpg",
+        "w": 860,
+        "h": 1260,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09i-860x877.jpg",
+        "w": 860,
+        "h": 877,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-09j-860x852.jpg",
+        "w": 860,
+        "h": 852,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-10-860x2736.jpg",
+        "w": 860,
+        "h": 2736,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-11-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET-detail-12-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
+      }
+    ]
+  },
+  "OFFSET4": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 7,
+    "label": "오프셋 4발 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=7",
+    "landing_url": "",
+    "factory_code": "GB-842",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/OFFSET4",
+    "thumbnail": [
+      {
+        "file": "thumbnail/OFFSET4-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-08-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-09-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/OFFSET4-thumb-10-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/OFFSET4-detail-00-860x1657.jpg",
+        "w": 860,
+        "h": 1657,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-01-860x1732.jpg",
+        "w": 860,
+        "h": 1732,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-02-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-04-860x1111.jpg",
+        "w": 860,
+        "h": 1111,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-05-860x1503.jpg",
+        "w": 860,
+        "h": 1503,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-06-860x1696.jpg",
+        "w": 860,
+        "h": 1696,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-07-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-08-860x1897.jpg",
+        "w": 860,
+        "h": 1897,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09a-860x820.jpg",
+        "w": 860,
+        "h": 820,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09b-860x1198.jpg",
+        "w": 860,
+        "h": 1198,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09c-860x1073.jpg",
+        "w": 860,
+        "h": 1073,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09d-860x568.jpg",
+        "w": 860,
+        "h": 568,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09e-860x671.jpg",
+        "w": 860,
+        "h": 671,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09f-860x1314.jpg",
+        "w": 860,
+        "h": 1314,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-09g-860x681.jpg",
+        "w": 860,
+        "h": 681,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-10-860x2736.jpg",
+        "w": 860,
+        "h": 2736,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-11-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/OFFSET4-detail-12-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
+      }
+    ]
+  },
+  "LED4": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 8,
+    "label": "LED 4발 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=8",
+    "landing_url": "",
+    "factory_code": "GB-830",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/LED4",
+    "thumbnail": [
+      {
+        "file": "thumbnail/LED4-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LED4-thumb-08-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/LED4-thumb-09-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/LED4-thumb-10-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/LED4-detail-00-860x1785.jpg",
+        "w": 860,
+        "h": 1785,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-01-860x1732.jpg",
+        "w": 860,
+        "h": 1732,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-02-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-04-860x1463.jpg",
+        "w": 860,
+        "h": 1463,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-05-860x1503.jpg",
+        "w": 860,
+        "h": 1503,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-06-860x1696.jpg",
+        "w": 860,
+        "h": 1696,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-07-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-08-860x1045.jpg",
+        "w": 860,
+        "h": 1045,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09a-860x1270.jpg",
+        "w": 860,
+        "h": 1270,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09b-860x428.jpg",
+        "w": 860,
+        "h": 428,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09c-860x689.jpg",
+        "w": 860,
+        "h": 689,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09d-860x1001.jpg",
+        "w": 860,
+        "h": 1001,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09e-860x931.jpg",
+        "w": 860,
+        "h": 931,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09f-860x687.jpg",
+        "w": 860,
+        "h": 687,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-09g-860x871.jpg",
+        "w": 860,
+        "h": 871,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-10-860x2736.jpg",
+        "w": 860,
+        "h": 2736,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-11-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/LED4-detail-12-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
+      }
+    ]
+  },
+  "LEDSEAT": {
+    "brand": "shl",
+    "category": "cane",
+    "idx": 9,
+    "label": "LED 의자 지팡이",
+    "shop_url": "https://shl.ltd/shop_view/?idx=9",
+    "landing_url": "",
+    "factory_code": "GB-830B",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/LEDSEAT",
+    "thumbnail": [
+      {
+        "file": "thumbnail/LEDSEAT-thumb-00-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-01-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-02-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-03-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-04-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-05-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-06-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-07-750x750.jpg",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-08-860x829.jpg",
+        "w": 860,
+        "h": 829
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-09-860x887.jpg",
+        "w": 860,
+        "h": 887
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-10-860x996.jpg",
+        "w": 860,
+        "h": 996
+      },
+      {
+        "file": "thumbnail/LEDSEAT-thumb-11-860x808.jpg",
+        "w": 860,
+        "h": 808
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/LEDSEAT-detail-00-860x2088.jpg",
+        "w": 860,
+        "h": 2088,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-01-860x1732.jpg",
+        "w": 860,
+        "h": 1732,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-02-860x2858.jpg",
+        "w": 860,
+        "h": 2858,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-03-860x2203.jpg",
+        "w": 860,
+        "h": 2203,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-04-860x1463.jpg",
+        "w": 860,
+        "h": 1463,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-05-860x1426.jpg",
+        "w": 860,
+        "h": 1426,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-06-860x1696.jpg",
+        "w": 860,
+        "h": 1696,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07a-860x1526.jpg",
+        "w": 860,
+        "h": 1526,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07b-860x1228.jpg",
+        "w": 860,
+        "h": 1228,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07c-860x1195.jpg",
+        "w": 860,
+        "h": 1195,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07d-860x1324.jpg",
+        "w": 860,
+        "h": 1324,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07e-860x302.jpg",
+        "w": 860,
+        "h": 302,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-07f-860x1039.jpg",
+        "w": 860,
+        "h": 1039,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-08-860x2534.jpg",
+        "w": 860,
+        "h": 2534,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-09-860x2676.jpg",
+        "w": 860,
+        "h": 2676,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-10-860x2715.jpg",
+        "w": 860,
+        "h": 2715,
+        "caption": ""
+      },
+      {
+        "file": "detail/LEDSEAT-detail-11-860x1391.jpg",
+        "w": 860,
+        "h": 1391,
+        "caption": ""
       }
     ]
   }

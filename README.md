@@ -87,6 +87,13 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 | `throne` | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=18) | [랜딩](https://start.rudix.biz/thrones/mrtv/) |
 | `throne` | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=19) | [랜딩](https://start.rudix.biz/thrones/msnv/) |
 | `throne` | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 | [상품](https://rudix.biz/shop_view/?idx=20) | [랜딩](https://start.rudix.biz/thrones/msnl/) |
+| `cane` | `BUDDYCANE` | 버디케인 카본 4발 지팡이 | 13 | 30 | [상품](https://shl.ltd/shop_view/?idx=3) | [랜딩]() |
+| `glove` | `GLOVE` | 치매장갑 | 7 | 40 | [상품](https://shl.ltd/shop_view/?idx=4) | [랜딩]() |
+| `cane` | `FOLD` | 접이식 4단 폴딩 지팡이 | 12 | 22 | [상품](https://shl.ltd/shop_view/?idx=5) | [랜딩]() |
+| `cane` | `OFFSET` | 오프셋 지팡이 | 11 | 22 | [상품](https://shl.ltd/shop_view/?idx=6) | [랜딩]() |
+| `cane` | `OFFSET4` | 오프셋 4발 지팡이 | 11 | 19 | [상품](https://shl.ltd/shop_view/?idx=7) | [랜딩]() |
+| `cane` | `LED4` | LED 4발 지팡이 | 11 | 19 | [상품](https://shl.ltd/shop_view/?idx=8) | [랜딩]() |
+| `cane` | `LEDSEAT` | LED 의자 지팡이 | 12 | 17 | [상품](https://shl.ltd/shop_view/?idx=9) | [랜딩]() |
 
 ### 의자 코드 읽는 법
 
