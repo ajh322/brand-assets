@@ -74,7 +74,7 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 |---|---|---|---|---|---|---|
 | `stick` | `5A` | 히코리 드럼스틱 5A | 8 | 19 | [상품](https://rudix.biz/shop_view/?idx=13) | [랜딩](https://start.rudix.biz/sticks/5a/) |
 | `stick` | `5B` | 히코리 드럼스틱 5B | 8 | 18 | [상품](https://rudix.biz/shop_view/?idx=10) | [랜딩](https://start.rudix.biz/sticks/5b/) |
-| `stick` | `7A` | 히코리 드럼스틱 7A | 8 | 2 | [상품](https://rudix.biz/shop_view/?idx=11) | [랜딩](https://start.rudix.biz/sticks/7a/) |
+| `stick` | `7A` | 히코리 드럼스틱 7A | 8 | 18 | [상품](https://rudix.biz/shop_view/?idx=11) | [랜딩](https://start.rudix.biz/sticks/7a/) |
 | `stick` | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 | [상품](https://rudix.biz/shop_view/?idx=7) | [랜딩](https://start.rudix.biz/accessories/stick-holder/) |
 | `pad` | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 | [상품](https://rudix.biz/shop_view/?idx=8) | [랜딩](https://start.rudix.biz/pads/8-master/) |
 | `pad` | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 | [상품](https://rudix.biz/shop_view/?idx=6) | [랜딩](https://start.rudix.biz/pads/12-pro/) |

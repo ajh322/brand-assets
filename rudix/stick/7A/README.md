@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=11>
 - 랜딩 <https://start.rudix.biz/sticks/7a/>  (광고 착지 전용, noindex)
 
-제품 사진 8장 · 상세 조각 2장
+제품 사진 8장 · 상세 조각 18장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/stick/7A/`
 
@@ -31,6 +31,22 @@
 |---|---|---|
 | `detail/7A-detail-00-860x1658.jpg` | 860x1658 | 5단계 검수 공정 |
 | `detail/7A-detail-01-860x1364.jpg` | 860x1364 | 타사 비교표 |
+| `detail/7A-detail-02-860x1658.jpg` | 860x1658 | — |
+| `detail/7A-detail-03-860x1364.jpg` | 860x1364 | — |
+| `detail/7A-detail-04-860x1295.jpg` | 860x1295 | — |
+| `detail/7A-detail-05-860x415.jpg` | 860x415 | — |
+| `detail/7A-detail-06-860x1319.jpg` | 860x1319 | — |
+| `detail/7A-detail-07-860x271.jpg` | 860x271 | — |
+| `detail/7A-detail-08-860x594.jpg` | 860x594 | — |
+| `detail/7A-detail-09-860x659.jpg` | 860x659 | — |
+| `detail/7A-detail-10-860x1246.jpg` | 860x1246 | — |
+| `detail/7A-detail-11-860x953.jpg` | 860x953 | — |
+| `detail/7A-detail-12-860x960.jpg` | 860x960 | — |
+| `detail/7A-detail-13-860x1643.jpg` | 860x1643 | — |
+| `detail/7A-detail-14-860x1039.jpg` | 860x1039 | — |
+| `detail/7A-detail-15-860x425.jpg` | 860x425 | — |
+| `detail/7A-detail-16-860x799.jpg` | 860x799 | — |
+| `detail/7A-detail-17-860x766.jpg` | 860x766 | — |
 
 ## source — 상세 원본
 
