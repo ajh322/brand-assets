@@ -27,23 +27,26 @@
 
 ## 제품 목록
 
-| 분류 | 코드 | 제품 | 사진 | 상세 |
-|---|---|---|---|---|
-| 드럼스틱 | `5A` | 히코리 드럼스틱 5A | 8 | 19 |
-| 드럼스틱 | `5B` | 히코리 드럼스틱 5B | 8 | 18 |
-| 드럼스틱 | `7A` | 히코리 드럼스틱 7A | 8 | 18 |
-| 드럼스틱 | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 |
-| 드럼패드 | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 |
-| 드럼패드 | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 |
-| 드럼패드 | `GUIDE` | 루디먼트 가이드 에디션 | 9 | 14 |
-| 드럼의자 | `PSTV` | Pro 안장형 스크류 드럼의자 PSTV | 3 | 20 |
-| 드럼의자 | `PSTL` | Pro 안장형 스크류 드럼의자 PSTL | 4 | 19 |
-| 드럼의자 | `MRNL` | Master 원형 유압 드럼의자 MRNL | 1 | 32 |
-| 드럼의자 | `MRNV` | Master 원형 유압 드럼의자 MRNV | 1 | 32 |
-| 드럼의자 | `MRTL` | Master 원형 스크류 드럼의자 MRTL | 1 | 29 |
-| 드럼의자 | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 |
-| 드럼의자 | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 |
-| 드럼의자 | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 |
+| 분류 | 코드 | 제품 | 사진 | 상세 | 제품 링크(CTA) |
+|---|---|---|---|---|---|
+| 드럼스틱 | `5A` | 히코리 드럼스틱 5A | 8 | 19 | https://start.rudix.biz/sticks/5a/ |
+| 드럼스틱 | `5B` | 히코리 드럼스틱 5B | 8 | 18 | https://start.rudix.biz/sticks/5b/ |
+| 드럼스틱 | `7A` | 히코리 드럼스틱 7A | 8 | 18 | https://start.rudix.biz/sticks/7a/ |
+| 드럼스틱 | `CASE` | 드럼스틱 홀더 케이스 가방 | 5 | 19 | https://start.rudix.biz/accessories/stick-holder/ |
+| 드럼패드 | `PAD8` | Master 8인치 연습용 드럼패드 세트 | 9 | 37 | https://start.rudix.biz/pads/8-master/ |
+| 드럼패드 | `PAD12` | Pro 12인치 연습용 드럼패드 세트 | 7 | 22 | https://start.rudix.biz/pads/12-pro/ |
+| 드럼패드 | `GUIDE` | 루디먼트 가이드 에디션 | 9 | 14 | https://start.rudix.biz/pads/guide-edition/ |
+| 드럼의자 | `PSTV` | Pro 안장형 스크류 드럼의자 PSTV | 3 | 20 | https://start.rudix.biz/thrones/pstv/ |
+| 드럼의자 | `PSTL` | Pro 안장형 스크류 드럼의자 PSTL | 4 | 19 | https://start.rudix.biz/thrones/pstl/ |
+| 드럼의자 | `MRNL` | Master 원형 유압 드럼의자 MRNL | 1 | 32 | https://start.rudix.biz/thrones/mrnl/ |
+| 드럼의자 | `MRNV` | Master 원형 유압 드럼의자 MRNV | 1 | 32 | https://start.rudix.biz/thrones/mrnv/ |
+| 드럼의자 | `MRTL` | Master 원형 스크류 드럼의자 MRTL | 1 | 29 | https://start.rudix.biz/thrones/mrtl/ |
+| 드럼의자 | `MRTV` | Master 원형 스크류 드럼의자 MRTV | 1 | 31 | https://start.rudix.biz/thrones/mrtv/ |
+| 드럼의자 | `MSNV` | Master 안장형 유압 드럼의자 MSNV | 1 | 31 | https://start.rudix.biz/thrones/msnv/ |
+| 드럼의자 | `MSNL` | Master 안장형 유압 드럼의자 MSNL | 1 | 31 | https://start.rudix.biz/thrones/msnl/ |
+
+원문은 `data/<브랜드>/landing.json` 이다. 주소를 손으로 적지 말고 그 파일을 고친다.
+
 
 ---
 

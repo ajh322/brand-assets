@@ -27,15 +27,18 @@
 
 ## 제품 목록
 
-| 분류 | 코드 | 제품 | 사진 | 상세 |
-|---|---|---|---|---|
-| 지팡이 | `BUDDYCANE` | 버디케인 카본 4발 지팡이 | 13 | 30 |
-| 장갑 | `GLOVE` | 치매장갑 | 7 | 40 |
-| 지팡이 | `FOLD` | 접이식 4단 폴딩 지팡이 | 12 | 22 |
-| 지팡이 | `OFFSET` | 오프셋 지팡이 | 11 | 22 |
-| 지팡이 | `OFFSET4` | 오프셋 4발 지팡이 | 11 | 19 |
-| 지팡이 | `LED4` | LED 4발 지팡이 | 11 | 19 |
-| 지팡이 | `LEDSEAT` | LED 의자 지팡이 | 12 | 17 |
+| 분류 | 코드 | 제품 | 사진 | 상세 | 제품 링크(CTA) |
+|---|---|---|---|---|---|
+| 지팡이 | `BUDDYCANE` | 버디케인 카본 4발 지팡이 | 13 | 30 | https://start.shl.ltd/canes/buddycane/ |
+| 장갑 | `GLOVE` | 치매장갑 | 7 | 40 | https://shl.ltd/shop_view/?idx=4 (랜딩 없음 · 자사몰) |
+| 지팡이 | `FOLD` | 접이식 4단 폴딩 지팡이 | 12 | 22 | https://start.shl.ltd/canes/folding/ |
+| 지팡이 | `OFFSET` | 오프셋 지팡이 | 11 | 22 | https://start.shl.ltd/canes/offset/ |
+| 지팡이 | `OFFSET4` | 오프셋 4발 지팡이 | 11 | 19 | https://start.shl.ltd/canes/offset-quad/ |
+| 지팡이 | `LED4` | LED 4발 지팡이 | 11 | 19 | https://start.shl.ltd/canes/led-quad/ |
+| 지팡이 | `LEDSEAT` | LED 의자 지팡이 | 12 | 17 | https://start.shl.ltd/canes/led-seat/ |
+
+원문은 `data/<브랜드>/landing.json` 이다. 주소를 손으로 적지 말고 그 파일을 고친다.
+
 
 ---
 
