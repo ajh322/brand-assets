@@ -415,3 +415,31 @@
 | 16 | 860×1391 | — | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cane/LEDSEAT/detail/LEDSEAT-detail-11-860x1391.jpg` |
 
 ---
+
+## 인증 자료  `cert`
+
+제안서·상세페이지·지원사업 서류에 붙이는 인증 문서다. 제품이 아니라
+브랜드 전체에 딸린 자료라 제품 목록과 따로 둔다.
+
+⚠️ **개인정보를 지우고 올렸다.** 디자인등록증의 생년월일·자택 주소,
+통신판매업 신고증의 문서확인번호·담당 공무원 연락처, 보험증권의 보험료·
+매출액·설계사 연락처를 가렸다. 원본이 필요하면 로컬 파일을 쓴다.
+
+| 내용 | URL |
+|---|---|
+| 사업자등록증 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-biz-license-1000x1414.jpg` |
+| CE 적합성 인증 1쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-ce-p1-900x1245.jpg` |
+| CE 적합성 인증 2쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-ce-p2-900x1233.jpg` |
+| 디자인등록증 제30-1317719호 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-design-30-1317719-1000x1413.jpg` |
+| 통신판매업 신고증 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-ecommerce-license-1000x1413.jpg` |
+| FDA 시설 등록 1쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-fda-p1-900x1272.jpg` |
+| FDA 시설 등록 2쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-fda-p2-900x1272.jpg` |
+| 삼성화재 생산물배상책임보험 (2026.08.21~2027.08.21) 1쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-insurance-samsungfire-p01-1240x1755.jpg` |
+| 삼성화재 생산물배상책임보험 (2026.08.21~2027.08.21) 2쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-insurance-samsungfire-p02-1240x1755.jpg` |
+| ISO 13485 품질경영시스템 (제조 공장) 1쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-iso13485-p1-900x1273.jpg` |
+| ISO 13485 품질경영시스템 (제조 공장) 2쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-iso13485-p2-900x1273.jpg` |
+| KCL 시험성적서 CT26-048681K (버디케인) 국문 1쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-kcl-CT26-048681-p01-1600x2262.jpg` |
+| KCL 시험성적서 CT26-048681K (버디케인) 국문 2쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-kcl-CT26-048681-p02-1600x2262.jpg` |
+| KCL 시험성적서 CT26-048681K (버디케인) 국문 3쪽 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-kcl-CT26-048681-p03-1600x2262.jpg` |
+| 의료기기 판매업 신고증 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-medical-device-seller-718x1039.jpg` |
+| 상표 출원 4020250114586 — 심사 중, 등록 아님 | `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/shl/cert/SHL-cert-trademark-1190x1684.jpg` |
