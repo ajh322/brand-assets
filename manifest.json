@@ -925,6 +925,149 @@
       }
     ]
   },
+  "PAD8PRO": {
+    "brand": "rudix",
+    "category": "pad",
+    "idx": 0,
+    "label": "Pro 8인치 연습용 드럼패드 세트",
+    "shop_url": "https://rudix.biz/shop_view/?idx=0",
+    "landing_url": "https://start.rudix.biz//",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD8PRO",
+    "source_repo": "https://github.com/ajh322/brand-assets-source/tree/main/rudix/pad/PAD8PRO/source",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PAD8PRO-thumb-000-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-001-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-002-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-003-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-004-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-005-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-006-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-007-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PAD8PRO-thumb-008-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PAD8PRO-detail-000-860x1502.jpg",
+        "w": 860,
+        "h": 1502,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-001-860x1300.jpg",
+        "w": 860,
+        "h": 1300,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-002-860x1300.jpg",
+        "w": 860,
+        "h": 1300,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-003-860x1300.jpg",
+        "w": 860,
+        "h": 1300,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-004-860x1382.jpg",
+        "w": 860,
+        "h": 1382,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-005-860x1300.jpg",
+        "w": 860,
+        "h": 1300,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-006-860x1676.jpg",
+        "w": 860,
+        "h": 1676,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-007-860x1597.jpg",
+        "w": 860,
+        "h": 1597,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-008-860x1475.jpg",
+        "w": 860,
+        "h": 1475,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-009-860x1816.jpg",
+        "w": 860,
+        "h": 1816,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-010-860x1330.jpg",
+        "w": 860,
+        "h": 1330,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-011-860x1358.jpg",
+        "w": 860,
+        "h": 1358,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-012-860x1611.jpg",
+        "w": 860,
+        "h": 1611,
+        "caption": ""
+      },
+      {
+        "file": "detail/PAD8PRO-detail-013-860x1980.jpg",
+        "w": 860,
+        "h": 1980,
+        "caption": ""
+      }
+    ]
+  },
   "PAD12": {
     "brand": "rudix",
     "category": "pad",
@@ -4287,625 +4430,625 @@
         "file": "detail/COMMON-detail-000-860x443.jpeg",
         "w": 860,
         "h": 443,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-001-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-002-857x390.jpeg",
         "w": 857,
         "h": 390,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-003-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-004-860x390.jpeg",
         "w": 860,
         "h": 390,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-005-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-006-860x390.jpeg",
         "w": 860,
         "h": 390,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-007-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-008-858x390.jpeg",
         "w": 858,
         "h": 390,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-009-1440x1100.webp",
         "w": 1440,
         "h": 1100,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-010-859x484.jpeg",
         "w": 859,
         "h": 484,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-011-859x475.jpeg",
         "w": 859,
         "h": 475,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-012-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-013-859x998.jpeg",
         "w": 859,
         "h": 998,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-014-1440x2716.webp",
         "w": 1440,
         "h": 2716,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-015-1440x1600.webp",
         "w": 1440,
         "h": 1600,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-016-860x817.jpeg",
         "w": 860,
         "h": 817,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-017-860x1516.jpeg",
         "w": 860,
         "h": 1516,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-018-860x1405.jpeg",
         "w": 860,
         "h": 1405,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-019-860x751.jpeg",
         "w": 860,
         "h": 751,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-020-860x380.jpeg",
         "w": 860,
         "h": 380,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-021-860x380.jpeg",
         "w": 860,
         "h": 380,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-022-860x380.jpeg",
         "w": 860,
         "h": 380,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-023-860x380.jpeg",
         "w": 860,
         "h": 380,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-024-860x432.jpeg",
         "w": 860,
         "h": 432,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-025-860x908.png",
         "w": 860,
         "h": 908,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-026-860x801.webp",
         "w": 860,
         "h": 801,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-027-860x982.jpeg",
         "w": 860,
         "h": 982,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-028-860x943.jpeg",
         "w": 860,
         "h": 943,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-029-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-030-860x1117.jpeg",
         "w": 860,
         "h": 1117,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-031-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-032-860x1117.jpeg",
         "w": 860,
         "h": 1117,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-033-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-034-860x1416.jpeg",
         "w": 860,
         "h": 1416,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-035-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-036-860x583.jpeg",
         "w": 860,
         "h": 583,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-037-860x486.jpeg",
         "w": 860,
         "h": 486,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-038-860x1121.jpeg",
         "w": 860,
         "h": 1121,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-039-859x1506.jpeg",
         "w": 859,
         "h": 1506,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-040-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-041-859x837.jpeg",
         "w": 859,
         "h": 837,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-042-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-043-859x939.jpeg",
         "w": 859,
         "h": 939,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-044-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-045-859x855.jpeg",
         "w": 859,
         "h": 855,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-046-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-047-859x848.jpeg",
         "w": 859,
         "h": 848,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-048-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-049-859x2546.jpeg",
         "w": 859,
         "h": 2546,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-050-860x4922.jpeg",
         "w": 860,
         "h": 4922,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-051-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-052-860x887.jpeg",
         "w": 860,
         "h": 887,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-053-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-054-858x490.jpeg",
         "w": 858,
         "h": 490,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-055-860x1096.jpeg",
         "w": 860,
         "h": 1096,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-056-1440x1440.webp",
         "w": 1440,
         "h": 1440,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-057-860x2302.jpeg",
         "w": 860,
         "h": 2302,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-058-860x4227.jpeg",
         "w": 860,
         "h": 4227,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-059-860x5557.jpeg",
         "w": 860,
         "h": 5557,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-060-860x458.jpeg",
         "w": 860,
         "h": 458,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-061-860x5079.jpeg",
         "w": 860,
         "h": 5079,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-062-860x2848.jpeg",
         "w": 860,
         "h": 2848,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-063-860x949.jpeg",
         "w": 860,
         "h": 949,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-064-860x1124.jpeg",
         "w": 860,
         "h": 1124,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-065-859x2159.jpeg",
         "w": 859,
         "h": 2159,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-066-800x696.webp",
         "w": 800,
         "h": 696,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-067-860x675.jpeg",
         "w": 860,
         "h": 675,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-068-1440x1440.webp",
         "w": 1440,
         "h": 1440,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-069-860x484.jpeg",
         "w": 860,
         "h": 484,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-070-859x988.jpeg",
         "w": 859,
         "h": 988,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-071-800x669.webp",
         "w": 800,
         "h": 669,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-072-860x1986.jpeg",
         "w": 860,
         "h": 1986,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-073-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-074-859x391.jpeg",
         "w": 859,
         "h": 391,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-075-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-076-860x386.jpeg",
         "w": 860,
         "h": 386,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-077-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-078-860x761.jpeg",
         "w": 860,
         "h": 761,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-079-860x3209.jpeg",
         "w": 860,
         "h": 3209,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-080-860x470.jpeg",
         "w": 860,
         "h": 470,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-081-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-082-860x491.jpeg",
         "w": 860,
         "h": 491,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-083-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-084-860x548.jpeg",
         "w": 860,
         "h": 548,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-085-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-086-860x495.jpeg",
         "w": 860,
         "h": 495,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-087-860x5099.jpeg",
         "w": 860,
         "h": 5099,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-088-860x5251.jpeg",
         "w": 860,
         "h": 5251,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-089-860x5038.jpeg",
         "w": 860,
         "h": 5038,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-090-860x4173.jpeg",
         "w": 860,
         "h": 4173,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-091-860x549.jpeg",
         "w": 860,
         "h": 549,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-092-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-093-860x1409.jpeg",
         "w": 860,
         "h": 1409,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-094-860x1585.jpeg",
         "w": 860,
         "h": 1585,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-095-860x1629.png",
         "w": 860,
         "h": 1629,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-096-860x1369.jpeg",
         "w": 860,
         "h": 1369,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-097-1440x810.webp",
         "w": 1440,
         "h": 810,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-098-860x1126.jpeg",
         "w": 860,
         "h": 1126,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-099-860x5289.jpeg",
         "w": 860,
         "h": 5289,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-100-860x1184.jpeg",
         "w": 860,
         "h": 1184,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-101-860x650.jpeg",
         "w": 860,
         "h": 650,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-102-860x836.jpeg",
         "w": 860,
         "h": 836,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/COMMON-detail-103-860x2522.jpeg",
         "w": 860,
         "h": 2522,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5073,79 +5216,79 @@
         "file": "detail/FARM-detail-000-860x372.jpg",
         "w": 860,
         "h": 372,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-001-848x1433.jpg",
         "w": 848,
         "h": 1433,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-002-848x1631.jpg",
         "w": 848,
         "h": 1631,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-003-848x1417.jpg",
         "w": 848,
         "h": 1417,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-004-848x1319.jpg",
         "w": 848,
         "h": 1319,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-005-848x1896.jpg",
         "w": 848,
         "h": 1896,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-006-848x1881.jpg",
         "w": 848,
         "h": 1881,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-007-858x1328.jpg",
         "w": 858,
         "h": 1328,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-008-858x1333.jpg",
         "w": 858,
         "h": 1333,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-009-858x1592.jpg",
         "w": 858,
         "h": 1592,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-010-858x855.jpg",
         "w": 858,
         "h": 855,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-011-860x2215.jpg",
         "w": 860,
         "h": 2215,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/FARM-detail-012-860x914.jpg",
         "w": 860,
         "h": 914,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5199,91 +5342,91 @@
         "file": "detail/DINO-detail-000-860x372.jpg",
         "w": 860,
         "h": 372,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-001-848x1761.jpg",
         "w": 848,
         "h": 1761,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-002-848x1459.jpg",
         "w": 848,
         "h": 1459,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-003-848x1300.jpg",
         "w": 848,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-004-848x1879.jpg",
         "w": 848,
         "h": 1879,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-005-848x1330.jpg",
         "w": 848,
         "h": 1330,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-006-848x1302.jpg",
         "w": 848,
         "h": 1302,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-007-848x1525.jpg",
         "w": 848,
         "h": 1525,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-008-860x1350.jpg",
         "w": 860,
         "h": 1350,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-009-860x1300.jpg",
         "w": 860,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-010-860x1869.jpg",
         "w": 860,
         "h": 1869,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-011-860x743.jpg",
         "w": 860,
         "h": 743,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-012-860x2215.jpg",
         "w": 860,
         "h": 2215,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-013-860x914.jpg",
         "w": 860,
         "h": 914,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/DINO-detail-014-860x914.jpg",
         "w": 860,
         "h": 914,
-        "caption": ""
+        "caption": "—"
       }
     ]
   }
