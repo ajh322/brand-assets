@@ -110,9 +110,10 @@ https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/<경로>
 | `cane` | `LED4` | LED 4발 지팡이 | 11 | 19 | [상품](https://shl.ltd/shop_view/?idx=8) | [랜딩]() |
 | `cane` | `LEDSEAT` | LED 의자 지팡이 | 12 | 17 | [상품](https://shl.ltd/shop_view/?idx=9) | [랜딩]() |
 | `busybook` | `COMMON` | 비지북 테마 공용 상세 (오션/정글) | 0 | 104 | [상품]() | [랜딩]() |
-| `busybook` | `OCEAN` | 비지북 오션 | 9 | 0 | [상품]() | [랜딩]() |
-| `busybook` | `JUNGLE` | 비지북 정글 | 9 | 0 | [상품]() | [랜딩]() |
-| `busybook` | `FARM` | 비지북 농장 | 7 | 13 | [상품]() | [랜딩]() |
+| `busybook` | `PRINCESS` | 비지북 프린세스 & 유니콘 | 2 | 1 | [상품]() | [랜딩]() |
+| `busybook` | `OCEAN` | 비지북 오션 | 11 | 1 | [상품]() | [랜딩]() |
+| `busybook` | `JUNGLE` | 비지북 정글 | 11 | 1 | [상품]() | [랜딩]() |
+| `busybook` | `FARM` | 비지북 농장 | 9 | 14 | [상품]() | [랜딩]() |
 | `busybook` | `DINO` | 비지북 공룡 | 7 | 15 | [상품]() | [랜딩]() |
 
 ### 의자 코드 읽는 법

@@ -986,85 +986,85 @@
         "file": "detail/PAD8PRO-detail-000-860x1502.jpg",
         "w": 860,
         "h": 1502,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-001-860x1300.jpg",
         "w": 860,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-002-860x1300.jpg",
         "w": 860,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-003-860x1300.jpg",
         "w": 860,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-004-860x1382.jpg",
         "w": 860,
         "h": 1382,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-005-860x1300.jpg",
         "w": 860,
         "h": 1300,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-006-860x1676.jpg",
         "w": 860,
         "h": 1676,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-007-860x1597.jpg",
         "w": 860,
         "h": 1597,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-008-860x1475.jpg",
         "w": 860,
         "h": 1475,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-009-860x1816.jpg",
         "w": 860,
         "h": 1816,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-010-860x1330.jpg",
         "w": 860,
         "h": 1330,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-011-860x1358.jpg",
         "w": 860,
         "h": 1358,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-012-860x1611.jpg",
         "w": 860,
         "h": 1611,
-        "caption": ""
+        "caption": "—"
       },
       {
         "file": "detail/PAD8PRO-detail-013-860x1980.jpg",
         "w": 860,
         "h": 1980,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5052,6 +5052,35 @@
       }
     ]
   },
+  "PRINCESS": {
+    "brand": "joycat",
+    "category": "busybook",
+    "idx": 0,
+    "label": "비지북 프린세스 & 유니콘",
+    "shop_url": "",
+    "landing_url": "",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/joycat/busybook/PRINCESS",
+    "thumbnail": [
+      {
+        "file": "thumbnail/PRINCESS-thumb-000-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/PRINCESS-thumb-001-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "detail": [
+      {
+        "file": "detail/PRINCESS-detail-000-860x1559.jpg",
+        "w": 860,
+        "h": 1559,
+        "caption": ""
+      }
+    ]
+  },
   "OCEAN": {
     "brand": "joycat",
     "category": "busybook",
@@ -5105,9 +5134,26 @@
         "file": "thumbnail/OCEAN-thumb-008-1500x1500.jpg",
         "w": 1500,
         "h": 1500
+      },
+      {
+        "file": "thumbnail/OCEAN-thumb-009-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/OCEAN-thumb-010-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/OCEAN-detail-000-860x1559.jpg",
+        "w": 860,
+        "h": 1559,
+        "caption": ""
+      }
+    ]
   },
   "JUNGLE": {
     "brand": "joycat",
@@ -5162,9 +5208,26 @@
         "file": "thumbnail/JUNGLE-thumb-008-1500x1500.jpg",
         "w": 1500,
         "h": 1500
+      },
+      {
+        "file": "thumbnail/JUNGLE-thumb-009-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/JUNGLE-thumb-010-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
       }
     ],
-    "detail": []
+    "detail": [
+      {
+        "file": "detail/JUNGLE-detail-000-860x1559.jpg",
+        "w": 860,
+        "h": 1559,
+        "caption": ""
+      }
+    ]
   },
   "FARM": {
     "brand": "joycat",
@@ -5209,6 +5272,16 @@
         "file": "thumbnail/FARM-thumb-006-973x973.jpg",
         "w": 973,
         "h": 973
+      },
+      {
+        "file": "thumbnail/FARM-thumb-007-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "file": "thumbnail/FARM-thumb-008-1000x1000.jpg",
+        "w": 1000,
+        "h": 1000
       }
     ],
     "detail": [
@@ -5289,6 +5362,12 @@
         "w": 860,
         "h": 914,
         "caption": "—"
+      },
+      {
+        "file": "detail/FARM-detail-013-860x1559.jpg",
+        "w": 860,
+        "h": 1559,
+        "caption": ""
       }
     ]
   },
