@@ -2,7 +2,7 @@
 
 - 자사몰 <>
 
-제품 사진 0장 · 상세 조각 104장
+제품 사진 0장 · 상세 조각 105장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/joycat/busybook/COMMON/`
 
@@ -117,3 +117,4 @@
 | `detail/COMMON-detail-101-860x650.jpeg` | 860x650 | — |
 | `detail/COMMON-detail-102-860x836.jpeg` | 860x836 | — |
 | `detail/COMMON-detail-103-860x2522.jpeg` | 860x2522 | — |
+| `detail/COMMON-detail-104-860x1765.jpeg` | 860x1765 | — |

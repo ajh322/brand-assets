@@ -5049,6 +5049,12 @@
         "w": 860,
         "h": 2522,
         "caption": "—"
+      },
+      {
+        "file": "detail/COMMON-detail-104-860x1765.jpeg",
+        "w": 860,
+        "h": 1765,
+        "caption": ""
       }
     ]
   },
@@ -5077,6 +5083,12 @@
         "file": "detail/PRINCESS-detail-000-860x1559.jpg",
         "w": 860,
         "h": 1559,
+        "caption": "—"
+      },
+      {
+        "file": "detail/PRINCESS-detail-001-860x1765.webp",
+        "w": 860,
+        "h": 1765,
         "caption": ""
       }
     ]
@@ -5151,6 +5163,12 @@
         "file": "detail/OCEAN-detail-000-860x1559.jpg",
         "w": 860,
         "h": 1559,
+        "caption": "—"
+      },
+      {
+        "file": "detail/OCEAN-detail-001-860x1765.webp",
+        "w": 860,
+        "h": 1765,
         "caption": ""
       }
     ]
@@ -5225,6 +5243,12 @@
         "file": "detail/JUNGLE-detail-000-860x1559.jpg",
         "w": 860,
         "h": 1559,
+        "caption": "—"
+      },
+      {
+        "file": "detail/JUNGLE-detail-001-860x1765.webp",
+        "w": 860,
+        "h": 1765,
         "caption": ""
       }
     ]
@@ -5367,6 +5391,12 @@
         "file": "detail/FARM-detail-013-860x1559.jpg",
         "w": 860,
         "h": 1559,
+        "caption": "—"
+      },
+      {
+        "file": "detail/FARM-detail-014-860x1765.webp",
+        "w": 860,
+        "h": 1765,
         "caption": ""
       }
     ]

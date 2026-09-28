@@ -2,7 +2,7 @@
 
 - 자사몰 <>
 
-제품 사진 9장 · 상세 조각 14장
+제품 사진 9장 · 상세 조각 15장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/joycat/busybook/FARM/`
 
@@ -43,3 +43,4 @@
 | `detail/FARM-detail-011-860x2215.jpg` | 860x2215 | — |
 | `detail/FARM-detail-012-860x914.jpg` | 860x914 | — |
 | `detail/FARM-detail-013-860x1559.jpg` | 860x1559 | — |
+| `detail/FARM-detail-014-860x1765.webp` | 860x1765 | — |

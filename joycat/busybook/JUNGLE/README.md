@@ -2,7 +2,7 @@
 
 - 자사몰 <>
 
-제품 사진 11장 · 상세 조각 1장
+제품 사진 11장 · 상세 조각 2장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/joycat/busybook/JUNGLE/`
 
@@ -32,3 +32,4 @@
 | 파일 | 해상도 | 내용 |
 |---|---|---|
 | `detail/JUNGLE-detail-000-860x1559.jpg` | 860x1559 | — |
+| `detail/JUNGLE-detail-001-860x1765.webp` | 860x1765 | — |
