@@ -2,7 +2,7 @@
 
 - 자사몰 <>
 
-제품 사진 2장 · 상세 조각 2장
+제품 사진 2장 · 상세 조각 3장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/joycat/busybook/PRINCESS/`
 
@@ -24,3 +24,4 @@
 |---|---|---|
 | `detail/PRINCESS-detail-000-860x1559.jpg` | 860x1559 | — |
 | `detail/PRINCESS-detail-001-860x1765.webp` | 860x1765 | — |
+| `detail/PRINCESS-detail-002-1720x1765.jpg` | 1720x1765 | — |
