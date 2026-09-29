@@ -3,7 +3,7 @@
 - 자사몰 <https://rudix.biz/shop_view/?idx=8>
 - 랜딩 <https://start.rudix.biz/pads/8-master/>  (광고 착지 전용, noindex)
 
-제품 사진 9장 · 상세 조각 38장
+제품 사진 9장 · 상세 조각 39장
 
 링크 접두사 `https://cdn.jsdelivr.net/gh/ajh322/brand-assets@main/rudix/pad/PAD8/`
 
@@ -68,6 +68,7 @@
 | `detail/PAD8-detail-35-860x286.jpg` | 860x286 | 다른 라인업 안내 |
 | `detail/PAD8-detail-36-860x1003.jpg` | 860x1003 | 연관 상품 목록 |
 | `detail/PAD8-detail-37-860x25602.jpg` | 860x25602 | — |
+| `detail/PAD8-detail-38-860x25602.jpg` | 860x25602 | — |
 
 ## source — 상세 원본
 
