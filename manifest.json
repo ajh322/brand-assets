@@ -922,6 +922,12 @@
         "w": 860,
         "h": 1003,
         "caption": "연관 상품 목록"
+      },
+      {
+        "file": "detail/PAD8-detail-37-860x25602.jpg",
+        "w": 860,
+        "h": 25602,
+        "caption": ""
       }
     ]
   },
@@ -5095,7 +5101,7 @@
         "file": "detail/PRINCESS-detail-002-1720x1765.jpg",
         "w": 1720,
         "h": 1765,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5181,7 +5187,7 @@
         "file": "detail/OCEAN-detail-002-1720x1765.jpg",
         "w": 1720,
         "h": 1765,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5267,7 +5273,7 @@
         "file": "detail/JUNGLE-detail-002-1720x1765.jpg",
         "w": 1720,
         "h": 1765,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
@@ -5421,7 +5427,7 @@
         "file": "detail/FARM-detail-015-1720x1765.jpg",
         "w": 1720,
         "h": 1765,
-        "caption": ""
+        "caption": "—"
       }
     ]
   },
